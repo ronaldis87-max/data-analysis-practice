@@ -1,0 +1,680 @@
+date,product,category,price,quantity,customer_type,location
+2024-01-01,Spark Plugs,Engine Parts,190.64,3,Walk-in,Downtown
+2024-01-01,Headlight Bulb,Electrical,94.71,3,Fleet,Downtown
+2024-01-01,Tire,Tires & Wheels,73.4,4,Fleet,Suburb
+2024-01-01,Wiper Blades,Accessories,194.28,4,Regular,Suburb
+2024-01-01,Oil Filter,Fluids & Filters,44.55,1,Walk-in,Suburb
+2024-01-01,Transmission Fluid,Fluids & Filters,109.7,4,Walk-in,Downtown
+2024-01-01,Brake Fluid,Brake System,126.25,2,Fleet,Suburb
+2024-01-01,Fuel Filter,Fluids & Filters,159.18,3,Fleet,Suburb
+2024-01-01,Coolant,Fluids & Filters,18.83,3,Fleet,Downtown
+2024-01-01,Coolant,Fluids & Filters,22.36,4,Walk-in,Suburb
+2024-01-01,Fuel Filter,Fluids & Filters,163.6,1,Regular,Downtown
+2024-01-01,Oil Filter,Fluids & Filters,140.0,3,Fleet,Suburb
+2024-01-01,Cabin Air Filter,Fluids & Filters,168.31,3,Regular,Downtown
+2024-01-01,Spark Plugs,Engine Parts,44.62,4,Regular,Suburb
+2024-01-01,Battery,Electrical,49.51,4,Regular,Downtown
+2024-01-01,Oil Filter,Fluids & Filters,157.28,2,Regular,Suburb
+2024-01-01,Spark Plugs,Engine Parts,123.6,4,Fleet,Suburb
+2024-01-01,Fuel Filter,Fluids & Filters,47.24,1,Regular,Suburb
+2024-01-01,Wiper Blades,Accessories,83.85,2,Fleet,Downtown
+2024-01-01,Tire,Tires & Wheels,77.78,4,Walk-in,Downtown
+2024-01-01,Cabin Air Filter,Fluids & Filters,162.42,1,Walk-in,Downtown
+2024-01-02,Tire,Tires & Wheels,85.03,4,Fleet,Downtown
+2024-01-02,Air Filter,Fluids & Filters,144.3,3,Fleet,Downtown
+2024-01-02,Brake Fluid,Brake System,24.07,3,Regular,Downtown
+2024-01-02,Power Steering Fluid,Fluids & Filters,173.99,4,Regular,Downtown
+2024-01-02,Headlight Bulb,Electrical,69.09,4,Walk-in,Downtown
+2024-01-02,Power Steering Fluid,Fluids & Filters,131.14,3,Fleet,Downtown
+2024-01-02,Air Filter,Fluids & Filters,32.72,2,Fleet,Downtown
+2024-01-02,Wiper Blades,Accessories,116.64,3,Regular,Downtown
+2024-01-02,Brake Fluid,Brake System,109.32,3,Regular,Suburb
+2024-01-02,Power Steering Fluid,Fluids & Filters,30.5,3,Fleet,Downtown
+2024-01-02,Spark Plugs,Engine Parts,117.02,4,Regular,Downtown
+2024-01-02,Headlight Bulb,Electrical,124.84,3,Fleet,Downtown
+2024-01-02,Spark Plugs,Engine Parts,189.14,3,Fleet,Downtown
+2024-01-02,Battery,Electrical,177.29,2,Walk-in,Suburb
+2024-01-02,Coolant,Fluids & Filters,30.04,4,Regular,Suburb
+2024-01-02,Brake Fluid,Brake System,71.63,3,Walk-in,Downtown
+2024-01-02,Fuel Filter,Fluids & Filters,30.91,1,Fleet,Suburb
+2024-01-02,Coolant,Fluids & Filters,165.42,1,Fleet,Downtown
+2024-01-02,Battery,Electrical,107.04,1,Regular,Downtown
+2024-01-02,Brake Pads,Brake System,32.77,4,Fleet,Downtown
+2024-01-02,Battery,Electrical,51.57,4,Walk-in,Suburb
+2024-01-02,Brake Pads,Brake System,22.33,2,Regular,Downtown
+2024-01-02,Oil Filter,Fluids & Filters,145.33,1,Walk-in,Suburb
+2024-01-03,Brake Fluid,Brake System,125.82,2,Regular,Downtown
+2024-01-03,Wiper Blades,Accessories,75.56,1,Fleet,Suburb
+2024-01-03,Oil Filter,Fluids & Filters,110.88,2,Regular,Suburb
+2024-01-03,Headlight Bulb,Electrical,137.71,3,Fleet,Downtown
+2024-01-03,Battery,Electrical,79.88,4,Regular,Suburb
+2024-01-03,Battery,Electrical,111.8,4,Walk-in,Downtown
+2024-01-03,Power Steering Fluid,Fluids & Filters,106.56,4,Walk-in,Downtown
+2024-01-03,Spark Plugs,Engine Parts,71.93,4,Fleet,Suburb
+2024-01-03,Air Filter,Fluids & Filters,163.81,4,Fleet,Suburb
+2024-01-03,Coolant,Fluids & Filters,141.28,4,Fleet,Suburb
+2024-01-03,Tire,Tires & Wheels,36.13,4,Walk-in,Downtown
+2024-01-03,Oil Filter,Fluids & Filters,185.69,2,Regular,Downtown
+2024-01-03,Headlight Bulb,Electrical,135.4,2,Walk-in,Suburb
+2024-01-03,Power Steering Fluid,Fluids & Filters,59.56,1,Regular,Suburb
+2024-01-03,Wiper Blades,Accessories,181.08,3,Fleet,Downtown
+2024-01-04,Air Filter,Fluids & Filters,143.07,4,Fleet,Suburb
+2024-01-04,Tire,Tires & Wheels,86.86,1,Fleet,Downtown
+2024-01-04,Tire,Tires & Wheels,159.21,4,Regular,Downtown
+2024-01-04,Fuel Filter,Fluids & Filters,188.63,1,Walk-in,Suburb
+2024-01-04,Fuel Filter,Fluids & Filters,114.26,2,Fleet,Suburb
+2024-01-04,Cabin Air Filter,Fluids & Filters,52.61,1,Walk-in,Suburb
+2024-01-04,Wiper Blades,Accessories,43.98,4,Fleet,Downtown
+2024-01-04,Brake Pads,Brake System,68.53,4,Fleet,Downtown
+2024-01-04,Battery,Electrical,60.39,2,Regular,Suburb
+2024-01-04,Battery,Electrical,84.69,2,Fleet,Downtown
+2024-01-04,Oil Filter,Fluids & Filters,76.51,1,Fleet,Suburb
+2024-01-04,Brake Pads,Brake System,47.1,1,Fleet,Suburb
+2024-01-04,Air Filter,Fluids & Filters,156.03,4,Walk-in,Suburb
+2024-01-04,Power Steering Fluid,Fluids & Filters,99.29,2,Walk-in,Suburb
+2024-01-04,Air Filter,Fluids & Filters,152.07,1,Walk-in,Downtown
+2024-01-04,Fuel Filter,Fluids & Filters,193.66,3,Walk-in,Suburb
+2024-01-04,Cabin Air Filter,Fluids & Filters,83.17,3,Walk-in,Suburb
+2024-01-04,Air Filter,Fluids & Filters,42.2,1,Regular,Downtown
+2024-01-04,Battery,Electrical,142.25,4,Regular,Suburb
+2024-01-04,Oil Filter,Fluids & Filters,126.85,2,Fleet,Suburb
+2024-01-04,Brake Fluid,Brake System,66.11,2,Walk-in,Suburb
+2024-01-04,Brake Pads,Brake System,35.96,2,Fleet,Downtown
+2024-01-04,Transmission Fluid,Fluids & Filters,163.78,3,Regular,Downtown
+2024-01-05,Cabin Air Filter,Fluids & Filters,25.5,3,Walk-in,Suburb
+2024-01-05,Cabin Air Filter,Fluids & Filters,46.91,4,Regular,Suburb
+2024-01-05,Fuel Filter,Fluids & Filters,179.1,3,Fleet,Suburb
+2024-01-05,Oil Filter,Fluids & Filters,27.86,3,Fleet,Suburb
+2024-01-05,Air Filter,Fluids & Filters,98.46,3,Regular,Downtown
+2024-01-05,Battery,Electrical,122.26,2,Walk-in,Suburb
+2024-01-05,Transmission Fluid,Fluids & Filters,166.29,2,Fleet,Suburb
+2024-01-05,Wiper Blades,Accessories,109.23,1,Walk-in,Downtown
+2024-01-05,Spark Plugs,Engine Parts,169.98,4,Regular,Downtown
+2024-01-05,Air Filter,Fluids & Filters,131.11,4,Walk-in,Suburb
+2024-01-05,Power Steering Fluid,Fluids & Filters,145.77,3,Walk-in,Suburb
+2024-01-05,Air Filter,Fluids & Filters,93.4,3,Regular,Downtown
+2024-01-05,Transmission Fluid,Fluids & Filters,192.9,3,Fleet,Downtown
+2024-01-05,Power Steering Fluid,Fluids & Filters,87.7,2,Regular,Downtown
+2024-01-05,Oil Filter,Fluids & Filters,55.56,2,Walk-in,Suburb
+2024-01-05,Cabin Air Filter,Fluids & Filters,63.19,4,Walk-in,Downtown
+2024-01-05,Wiper Blades,Accessories,126.23,3,Fleet,Suburb
+2024-01-05,Transmission Fluid,Fluids & Filters,77.63,1,Regular,Downtown
+2024-01-05,Cabin Air Filter,Fluids & Filters,32.05,1,Fleet,Downtown
+2024-01-05,Fuel Filter,Fluids & Filters,172.54,4,Walk-in,Suburb
+2024-01-05,Transmission Fluid,Fluids & Filters,155.04,1,Fleet,Suburb
+2024-01-05,Brake Pads,Brake System,98.29,1,Fleet,Suburb
+2024-01-06,Battery,Electrical,130.67,2,Fleet,Suburb
+2024-01-06,Transmission Fluid,Fluids & Filters,187.35,4,Walk-in,Suburb
+2024-01-06,Wiper Blades,Accessories,139.95,4,Fleet,Suburb
+2024-01-06,Brake Pads,Brake System,174.77,4,Fleet,Suburb
+2024-01-06,Tire,Tires & Wheels,138.66,3,Walk-in,Downtown
+2024-01-06,Cabin Air Filter,Fluids & Filters,113.67,1,Fleet,Downtown
+2024-01-06,Brake Pads,Brake System,133.78,3,Walk-in,Downtown
+2024-01-06,Power Steering Fluid,Fluids & Filters,29.15,2,Walk-in,Downtown
+2024-01-06,Oil Filter,Fluids & Filters,139.77,1,Regular,Suburb
+2024-01-06,Cabin Air Filter,Fluids & Filters,170.53,2,Regular,Suburb
+2024-01-06,Air Filter,Fluids & Filters,63.55,4,Regular,Downtown
+2024-01-06,Oil Filter,Fluids & Filters,129.5,1,Walk-in,Downtown
+2024-01-06,Cabin Air Filter,Fluids & Filters,63.59,2,Walk-in,Downtown
+2024-01-06,Tire,Tires & Wheels,163.3,1,Fleet,Suburb
+2024-01-06,Spark Plugs,Engine Parts,80.68,3,Fleet,Suburb
+2024-01-06,Wiper Blades,Accessories,55.33,3,Walk-in,Downtown
+2024-01-06,Coolant,Fluids & Filters,55.26,2,Walk-in,Downtown
+2024-01-06,Fuel Filter,Fluids & Filters,104.35,1,Regular,Downtown
+2024-01-06,Brake Fluid,Brake System,29.0,4,Walk-in,Downtown
+2024-01-06,Air Filter,Fluids & Filters,27.34,3,Regular,Downtown
+2024-01-06,Spark Plugs,Engine Parts,118.95,3,Walk-in,Downtown
+2024-01-06,Air Filter,Fluids & Filters,124.46,4,Fleet,Downtown
+2024-01-06,Spark Plugs,Engine Parts,189.78,4,Walk-in,Downtown
+2024-01-06,Cabin Air Filter,Fluids & Filters,186.88,2,Fleet,Suburb
+2024-01-07,Transmission Fluid,Fluids & Filters,93.89,3,Walk-in,Downtown
+2024-01-07,Brake Fluid,Brake System,32.24,4,Walk-in,Suburb
+2024-01-07,Transmission Fluid,Fluids & Filters,127.46,1,Regular,Downtown
+2024-01-07,Fuel Filter,Fluids & Filters,143.18,2,Walk-in,Suburb
+2024-01-07,Brake Fluid,Brake System,144.19,1,Walk-in,Downtown
+2024-01-07,Battery,Electrical,197.46,4,Walk-in,Downtown
+2024-01-07,Battery,Electrical,164.43,3,Fleet,Downtown
+2024-01-07,Cabin Air Filter,Fluids & Filters,153.14,2,Fleet,Downtown
+2024-01-07,Cabin Air Filter,Fluids & Filters,81.82,3,Fleet,Suburb
+2024-01-07,Transmission Fluid,Fluids & Filters,72.75,2,Fleet,Downtown
+2024-01-07,Cabin Air Filter,Fluids & Filters,86.99,2,Regular,Suburb
+2024-01-07,Power Steering Fluid,Fluids & Filters,155.77,3,Walk-in,Downtown
+2024-01-07,Brake Pads,Brake System,139.4,4,Regular,Downtown
+2024-01-07,Power Steering Fluid,Fluids & Filters,64.29,4,Walk-in,Suburb
+2024-01-07,Wiper Blades,Accessories,193.01,4,Walk-in,Suburb
+2024-01-07,Cabin Air Filter,Fluids & Filters,18.2,1,Regular,Downtown
+2024-01-07,Brake Fluid,Brake System,184.63,4,Fleet,Downtown
+2024-01-07,Spark Plugs,Engine Parts,24.33,3,Walk-in,Downtown
+2024-01-07,Fuel Filter,Fluids & Filters,65.95,1,Walk-in,Suburb
+2024-01-07,Battery,Electrical,83.0,3,Walk-in,Downtown
+2024-01-07,Power Steering Fluid,Fluids & Filters,192.15,4,Regular,Suburb
+2024-01-07,Tire,Tires & Wheels,127.83,4,Regular,Suburb
+2024-01-07,Spark Plugs,Engine Parts,98.1,2,Regular,Suburb
+2024-01-07,Power Steering Fluid,Fluids & Filters,78.47,4,Fleet,Suburb
+2024-01-07,Brake Pads,Brake System,63.16,1,Walk-in,Suburb
+2024-01-07,Cabin Air Filter,Fluids & Filters,35.31,3,Walk-in,Suburb
+2024-01-07,Oil Filter,Fluids & Filters,89.16,1,Fleet,Downtown
+2024-01-07,Oil Filter,Fluids & Filters,25.72,2,Regular,Downtown
+2024-01-07,Cabin Air Filter,Fluids & Filters,41.32,4,Walk-in,Suburb
+2024-01-08,Oil Filter,Fluids & Filters,197.58,1,Fleet,Downtown
+2024-01-08,Transmission Fluid,Fluids & Filters,82.37,2,Fleet,Downtown
+2024-01-08,Brake Pads,Brake System,169.28,2,Walk-in,Downtown
+2024-01-08,Brake Pads,Brake System,12.6,3,Regular,Suburb
+2024-01-08,Brake Pads,Brake System,111.53,1,Regular,Downtown
+2024-01-08,Wiper Blades,Accessories,121.18,1,Walk-in,Suburb
+2024-01-08,Transmission Fluid,Fluids & Filters,81.79,1,Regular,Downtown
+2024-01-08,Fuel Filter,Fluids & Filters,57.77,1,Walk-in,Suburb
+2024-01-08,Fuel Filter,Fluids & Filters,176.86,4,Regular,Suburb
+2024-01-08,Tire,Tires & Wheels,14.22,2,Regular,Suburb
+2024-01-08,Battery,Electrical,167.96,2,Walk-in,Suburb
+2024-01-08,Power Steering Fluid,Fluids & Filters,116.58,2,Fleet,Downtown
+2024-01-08,Brake Pads,Brake System,35.46,3,Fleet,Downtown
+2024-01-08,Wiper Blades,Accessories,127.86,2,Fleet,Downtown
+2024-01-08,Headlight Bulb,Electrical,35.91,4,Regular,Suburb
+2024-01-09,Oil Filter,Fluids & Filters,130.96,3,Fleet,Downtown
+2024-01-09,Oil Filter,Fluids & Filters,76.17,2,Walk-in,Suburb
+2024-01-09,Power Steering Fluid,Fluids & Filters,66.61,2,Fleet,Downtown
+2024-01-09,Wiper Blades,Accessories,161.33,2,Walk-in,Suburb
+2024-01-09,Brake Pads,Brake System,59.07,4,Walk-in,Suburb
+2024-01-09,Battery,Electrical,103.6,1,Regular,Downtown
+2024-01-09,Brake Fluid,Brake System,55.63,3,Fleet,Downtown
+2024-01-09,Headlight Bulb,Electrical,34.33,3,Fleet,Suburb
+2024-01-09,Tire,Tires & Wheels,44.21,4,Walk-in,Downtown
+2024-01-09,Air Filter,Fluids & Filters,107.89,4,Regular,Downtown
+2024-01-09,Transmission Fluid,Fluids & Filters,52.53,1,Walk-in,Suburb
+2024-01-09,Power Steering Fluid,Fluids & Filters,76.05,2,Walk-in,Suburb
+2024-01-09,Brake Pads,Brake System,111.54,4,Regular,Suburb
+2024-01-09,Oil Filter,Fluids & Filters,34.46,2,Walk-in,Downtown
+2024-01-09,Coolant,Fluids & Filters,27.54,3,Walk-in,Suburb
+2024-01-09,Tire,Tires & Wheels,175.98,3,Walk-in,Downtown
+2024-01-10,Spark Plugs,Engine Parts,163.18,1,Fleet,Downtown
+2024-01-10,Spark Plugs,Engine Parts,49.78,3,Regular,Suburb
+2024-01-10,Transmission Fluid,Fluids & Filters,154.39,2,Regular,Downtown
+2024-01-10,Transmission Fluid,Fluids & Filters,16.97,4,Fleet,Downtown
+2024-01-10,Air Filter,Fluids & Filters,180.09,2,Fleet,Downtown
+2024-01-10,Power Steering Fluid,Fluids & Filters,30.36,2,Regular,Downtown
+2024-01-10,Air Filter,Fluids & Filters,56.07,1,Fleet,Downtown
+2024-01-10,Power Steering Fluid,Fluids & Filters,13.81,1,Walk-in,Downtown
+2024-01-10,Battery,Electrical,72.22,4,Walk-in,Downtown
+2024-01-10,Cabin Air Filter,Fluids & Filters,122.78,4,Regular,Downtown
+2024-01-10,Coolant,Fluids & Filters,104.7,3,Fleet,Suburb
+2024-01-10,Oil Filter,Fluids & Filters,115.97,4,Walk-in,Suburb
+2024-01-10,Air Filter,Fluids & Filters,81.97,1,Regular,Suburb
+2024-01-10,Transmission Fluid,Fluids & Filters,125.44,3,Fleet,Downtown
+2024-01-10,Battery,Electrical,125.1,1,Walk-in,Suburb
+2024-01-10,Wiper Blades,Accessories,39.04,3,Regular,Downtown
+2024-01-10,Fuel Filter,Fluids & Filters,64.17,3,Fleet,Downtown
+2024-01-10,Headlight Bulb,Electrical,19.81,3,Walk-in,Suburb
+2024-01-10,Tire,Tires & Wheels,31.29,2,Fleet,Suburb
+2024-01-10,Battery,Electrical,195.26,2,Regular,Downtown
+2024-01-10,Fuel Filter,Fluids & Filters,186.58,3,Fleet,Suburb
+2024-01-10,Transmission Fluid,Fluids & Filters,63.2,4,Walk-in,Suburb
+2024-01-10,Transmission Fluid,Fluids & Filters,71.5,3,Walk-in,Suburb
+2024-01-10,Brake Pads,Brake System,110.67,1,Regular,Suburb
+2024-01-11,Wiper Blades,Accessories,106.16,3,Walk-in,Downtown
+2024-01-11,Air Filter,Fluids & Filters,19.85,2,Regular,Downtown
+2024-01-11,Headlight Bulb,Electrical,114.3,2,Walk-in,Suburb
+2024-01-11,Oil Filter,Fluids & Filters,26.69,3,Walk-in,Downtown
+2024-01-11,Brake Pads,Brake System,32.17,3,Regular,Downtown
+2024-01-11,Air Filter,Fluids & Filters,76.28,1,Walk-in,Suburb
+2024-01-11,Power Steering Fluid,Fluids & Filters,193.36,2,Walk-in,Suburb
+2024-01-11,Brake Fluid,Brake System,188.28,4,Fleet,Downtown
+2024-01-11,Brake Pads,Brake System,150.81,2,Walk-in,Suburb
+2024-01-11,Brake Fluid,Brake System,161.1,2,Regular,Downtown
+2024-01-11,Wiper Blades,Accessories,45.42,3,Fleet,Suburb
+2024-01-11,Transmission Fluid,Fluids & Filters,182.49,1,Walk-in,Suburb
+2024-01-11,Coolant,Fluids & Filters,139.77,4,Fleet,Suburb
+2024-01-11,Fuel Filter,Fluids & Filters,180.94,1,Regular,Downtown
+2024-01-11,Headlight Bulb,Electrical,93.36,1,Walk-in,Downtown
+2024-01-11,Brake Pads,Brake System,84.38,2,Regular,Downtown
+2024-01-11,Tire,Tires & Wheels,53.51,3,Fleet,Suburb
+2024-01-11,Battery,Electrical,73.23,3,Regular,Suburb
+2024-01-11,Spark Plugs,Engine Parts,160.86,1,Walk-in,Suburb
+2024-01-11,Fuel Filter,Fluids & Filters,179.84,4,Walk-in,Suburb
+2024-01-12,Brake Pads,Brake System,144.33,3,Fleet,Downtown
+2024-01-12,Fuel Filter,Fluids & Filters,48.86,2,Regular,Downtown
+2024-01-12,Brake Fluid,Brake System,153.38,2,Regular,Downtown
+2024-01-12,Spark Plugs,Engine Parts,96.83,4,Fleet,Downtown
+2024-01-12,Tire,Tires & Wheels,38.48,3,Walk-in,Suburb
+2024-01-12,Brake Fluid,Brake System,131.82,3,Regular,Downtown
+2024-01-12,Brake Fluid,Brake System,75.68,3,Regular,Suburb
+2024-01-12,Tire,Tires & Wheels,120.84,4,Fleet,Downtown
+2024-01-12,Transmission Fluid,Fluids & Filters,189.98,4,Regular,Downtown
+2024-01-12,Tire,Tires & Wheels,106.12,1,Walk-in,Downtown
+2024-01-12,Tire,Tires & Wheels,175.7,4,Walk-in,Suburb
+2024-01-12,Wiper Blades,Accessories,144.38,2,Walk-in,Suburb
+2024-01-12,Transmission Fluid,Fluids & Filters,23.1,3,Walk-in,Suburb
+2024-01-12,Tire,Tires & Wheels,169.68,3,Fleet,Downtown
+2024-01-12,Fuel Filter,Fluids & Filters,54.82,2,Regular,Suburb
+2024-01-12,Battery,Electrical,169.12,1,Fleet,Suburb
+2024-01-12,Headlight Bulb,Electrical,53.21,3,Walk-in,Downtown
+2024-01-12,Coolant,Fluids & Filters,151.41,2,Walk-in,Downtown
+2024-01-12,Transmission Fluid,Fluids & Filters,73.36,3,Walk-in,Suburb
+2024-01-12,Brake Fluid,Brake System,185.36,3,Regular,Downtown
+2024-01-12,Oil Filter,Fluids & Filters,184.51,4,Fleet,Downtown
+2024-01-12,Power Steering Fluid,Fluids & Filters,183.42,2,Walk-in,Downtown
+2024-01-12,Spark Plugs,Engine Parts,89.6,4,Walk-in,Downtown
+2024-01-13,Brake Fluid,Brake System,130.13,4,Regular,Downtown
+2024-01-13,Brake Pads,Brake System,43.83,4,Walk-in,Downtown
+2024-01-13,Spark Plugs,Engine Parts,88.78,4,Fleet,Downtown
+2024-01-13,Tire,Tires & Wheels,105.42,1,Walk-in,Suburb
+2024-01-13,Headlight Bulb,Electrical,91.09,4,Fleet,Suburb
+2024-01-13,Fuel Filter,Fluids & Filters,46.23,1,Walk-in,Suburb
+2024-01-13,Tire,Tires & Wheels,121.62,1,Regular,Downtown
+2024-01-13,Oil Filter,Fluids & Filters,109.63,4,Walk-in,Suburb
+2024-01-13,Fuel Filter,Fluids & Filters,116.33,3,Walk-in,Suburb
+2024-01-13,Cabin Air Filter,Fluids & Filters,24.35,3,Regular,Suburb
+2024-01-13,Air Filter,Fluids & Filters,132.36,4,Walk-in,Downtown
+2024-01-13,Headlight Bulb,Electrical,39.67,2,Fleet,Downtown
+2024-01-13,Tire,Tires & Wheels,15.15,3,Fleet,Suburb
+2024-01-13,Headlight Bulb,Electrical,137.66,1,Regular,Downtown
+2024-01-13,Wiper Blades,Accessories,43.92,1,Fleet,Suburb
+2024-01-13,Oil Filter,Fluids & Filters,163.01,4,Regular,Suburb
+2024-01-13,Tire,Tires & Wheels,163.3,4,Walk-in,Suburb
+2024-01-13,Wiper Blades,Accessories,87.21,3,Regular,Downtown
+2024-01-13,Transmission Fluid,Fluids & Filters,26.25,3,Walk-in,Downtown
+2024-01-13,Cabin Air Filter,Fluids & Filters,176.52,1,Regular,Suburb
+2024-01-13,Brake Pads,Brake System,165.31,4,Fleet,Suburb
+2024-01-13,Oil Filter,Fluids & Filters,78.98,3,Walk-in,Downtown
+2024-01-13,Battery,Electrical,157.03,1,Regular,Downtown
+2024-01-13,Power Steering Fluid,Fluids & Filters,51.71,2,Regular,Suburb
+2024-01-13,Tire,Tires & Wheels,31.71,2,Fleet,Suburb
+2024-01-13,Headlight Bulb,Electrical,161.97,1,Regular,Downtown
+2024-01-13,Brake Pads,Brake System,61.05,4,Regular,Downtown
+2024-01-14,Headlight Bulb,Electrical,51.42,2,Fleet,Suburb
+2024-01-14,Spark Plugs,Engine Parts,35.13,1,Walk-in,Suburb
+2024-01-14,Headlight Bulb,Electrical,139.8,2,Regular,Suburb
+2024-01-14,Wiper Blades,Accessories,164.86,1,Regular,Suburb
+2024-01-14,Brake Pads,Brake System,87.0,2,Regular,Suburb
+2024-01-14,Headlight Bulb,Electrical,30.25,2,Walk-in,Downtown
+2024-01-14,Coolant,Fluids & Filters,60.63,3,Regular,Suburb
+2024-01-14,Cabin Air Filter,Fluids & Filters,136.36,3,Regular,Downtown
+2024-01-14,Brake Pads,Brake System,89.57,4,Regular,Suburb
+2024-01-14,Fuel Filter,Fluids & Filters,18.92,4,Regular,Downtown
+2024-01-14,Brake Pads,Brake System,25.73,4,Fleet,Suburb
+2024-01-14,Cabin Air Filter,Fluids & Filters,83.97,4,Fleet,Suburb
+2024-01-14,Spark Plugs,Engine Parts,146.62,3,Fleet,Suburb
+2024-01-14,Oil Filter,Fluids & Filters,85.36,4,Regular,Suburb
+2024-01-14,Wiper Blades,Accessories,101.91,2,Fleet,Suburb
+2024-01-14,Air Filter,Fluids & Filters,123.06,3,Walk-in,Suburb
+2024-01-14,Brake Fluid,Brake System,123.4,2,Walk-in,Suburb
+2024-01-14,Oil Filter,Fluids & Filters,30.25,1,Walk-in,Downtown
+2024-01-14,Coolant,Fluids & Filters,143.94,4,Regular,Downtown
+2024-01-14,Headlight Bulb,Electrical,24.43,2,Walk-in,Suburb
+2024-01-14,Power Steering Fluid,Fluids & Filters,193.86,2,Regular,Suburb
+2024-01-14,Air Filter,Fluids & Filters,69.77,3,Fleet,Downtown
+2024-01-14,Cabin Air Filter,Fluids & Filters,160.1,1,Fleet,Downtown
+2024-01-15,Power Steering Fluid,Fluids & Filters,112.96,4,Fleet,Suburb
+2024-01-15,Wiper Blades,Accessories,154.22,1,Regular,Suburb
+2024-01-15,Battery,Electrical,196.31,2,Walk-in,Suburb
+2024-01-15,Brake Fluid,Brake System,197.66,1,Regular,Downtown
+2024-01-15,Transmission Fluid,Fluids & Filters,121.77,1,Fleet,Suburb
+2024-01-15,Wiper Blades,Accessories,99.91,3,Regular,Downtown
+2024-01-15,Wiper Blades,Accessories,148.89,3,Regular,Downtown
+2024-01-15,Headlight Bulb,Electrical,161.11,3,Regular,Suburb
+2024-01-15,Headlight Bulb,Electrical,96.48,3,Regular,Downtown
+2024-01-15,Brake Pads,Brake System,133.53,4,Fleet,Suburb
+2024-01-15,Power Steering Fluid,Fluids & Filters,101.4,3,Walk-in,Downtown
+2024-01-15,Tire,Tires & Wheels,93.8,3,Fleet,Downtown
+2024-01-15,Tire,Tires & Wheels,112.5,1,Regular,Downtown
+2024-01-15,Cabin Air Filter,Fluids & Filters,128.92,4,Walk-in,Suburb
+2024-01-15,Power Steering Fluid,Fluids & Filters,54.26,3,Fleet,Suburb
+2024-01-15,Oil Filter,Fluids & Filters,14.04,3,Walk-in,Downtown
+2024-01-15,Oil Filter,Fluids & Filters,188.42,3,Fleet,Downtown
+2024-01-15,Fuel Filter,Fluids & Filters,76.64,2,Walk-in,Downtown
+2024-01-15,Fuel Filter,Fluids & Filters,101.18,1,Fleet,Downtown
+2024-01-15,Transmission Fluid,Fluids & Filters,27.42,3,Fleet,Suburb
+2024-01-15,Wiper Blades,Accessories,149.13,1,Fleet,Downtown
+2024-01-15,Fuel Filter,Fluids & Filters,66.43,2,Regular,Suburb
+2024-01-15,Wiper Blades,Accessories,18.0,1,Walk-in,Suburb
+2024-01-15,Coolant,Fluids & Filters,30.8,1,Fleet,Suburb
+2024-01-15,Wiper Blades,Accessories,159.41,3,Regular,Downtown
+2024-01-15,Tire,Tires & Wheels,178.0,4,Fleet,Suburb
+2024-01-15,Cabin Air Filter,Fluids & Filters,197.95,3,Fleet,Suburb
+2024-01-15,Spark Plugs,Engine Parts,169.19,2,Walk-in,Downtown
+2024-01-15,Cabin Air Filter,Fluids & Filters,32.86,3,Regular,Downtown
+2024-01-16,Coolant,Fluids & Filters,45.42,3,Regular,Downtown
+2024-01-16,Wiper Blades,Accessories,129.66,3,Walk-in,Downtown
+2024-01-16,Air Filter,Fluids & Filters,123.48,1,Walk-in,Downtown
+2024-01-16,Transmission Fluid,Fluids & Filters,107.9,2,Regular,Downtown
+2024-01-16,Tire,Tires & Wheels,180.51,3,Regular,Downtown
+2024-01-16,Tire,Tires & Wheels,152.1,1,Walk-in,Suburb
+2024-01-16,Fuel Filter,Fluids & Filters,173.42,3,Walk-in,Suburb
+2024-01-16,Air Filter,Fluids & Filters,61.86,1,Walk-in,Downtown
+2024-01-16,Coolant,Fluids & Filters,171.92,2,Walk-in,Downtown
+2024-01-16,Tire,Tires & Wheels,187.0,3,Fleet,Suburb
+2024-01-16,Tire,Tires & Wheels,58.0,2,Fleet,Downtown
+2024-01-16,Transmission Fluid,Fluids & Filters,111.19,1,Walk-in,Suburb
+2024-01-16,Wiper Blades,Accessories,198.38,2,Walk-in,Suburb
+2024-01-16,Fuel Filter,Fluids & Filters,122.56,2,Fleet,Suburb
+2024-01-16,Tire,Tires & Wheels,138.82,3,Walk-in,Downtown
+2024-01-16,Brake Pads,Brake System,176.94,3,Walk-in,Downtown
+2024-01-16,Brake Fluid,Brake System,40.48,1,Fleet,Downtown
+2024-01-16,Coolant,Fluids & Filters,186.72,4,Fleet,Downtown
+2024-01-16,Battery,Electrical,45.95,1,Fleet,Downtown
+2024-01-16,Transmission Fluid,Fluids & Filters,98.44,3,Fleet,Suburb
+2024-01-16,Transmission Fluid,Fluids & Filters,165.79,1,Regular,Downtown
+2024-01-16,Oil Filter,Fluids & Filters,165.41,2,Walk-in,Downtown
+2024-01-16,Power Steering Fluid,Fluids & Filters,11.21,4,Walk-in,Suburb
+2024-01-16,Brake Fluid,Brake System,196.43,1,Fleet,Suburb
+2024-01-17,Tire,Tires & Wheels,165.55,4,Regular,Downtown
+2024-01-17,Fuel Filter,Fluids & Filters,13.5,1,Regular,Downtown
+2024-01-17,Power Steering Fluid,Fluids & Filters,130.2,2,Walk-in,Downtown
+2024-01-17,Battery,Electrical,188.07,4,Regular,Suburb
+2024-01-17,Brake Fluid,Brake System,41.61,4,Regular,Downtown
+2024-01-17,Transmission Fluid,Fluids & Filters,99.98,2,Regular,Suburb
+2024-01-17,Brake Fluid,Brake System,171.96,2,Fleet,Downtown
+2024-01-17,Power Steering Fluid,Fluids & Filters,152.43,3,Walk-in,Suburb
+2024-01-17,Headlight Bulb,Electrical,22.47,1,Regular,Downtown
+2024-01-17,Air Filter,Fluids & Filters,57.98,3,Regular,Suburb
+2024-01-17,Fuel Filter,Fluids & Filters,99.02,4,Walk-in,Downtown
+2024-01-17,Cabin Air Filter,Fluids & Filters,172.3,3,Fleet,Downtown
+2024-01-17,Cabin Air Filter,Fluids & Filters,66.69,4,Regular,Downtown
+2024-01-17,Fuel Filter,Fluids & Filters,53.71,3,Fleet,Downtown
+2024-01-17,Brake Pads,Brake System,193.01,4,Walk-in,Downtown
+2024-01-17,Wiper Blades,Accessories,131.32,2,Fleet,Downtown
+2024-01-17,Wiper Blades,Accessories,196.96,1,Regular,Suburb
+2024-01-17,Battery,Electrical,53.69,1,Fleet,Suburb
+2024-01-17,Brake Pads,Brake System,133.82,4,Regular,Downtown
+2024-01-17,Power Steering Fluid,Fluids & Filters,99.91,4,Regular,Downtown
+2024-01-17,Brake Pads,Brake System,27.32,4,Fleet,Downtown
+2024-01-17,Fuel Filter,Fluids & Filters,110.77,3,Fleet,Downtown
+2024-01-17,Power Steering Fluid,Fluids & Filters,16.18,4,Regular,Downtown
+2024-01-17,Spark Plugs,Engine Parts,161.34,1,Regular,Suburb
+2024-01-17,Headlight Bulb,Electrical,33.79,4,Walk-in,Suburb
+2024-01-17,Coolant,Fluids & Filters,40.56,2,Regular,Downtown
+2024-01-18,Oil Filter,Fluids & Filters,161.54,3,Walk-in,Downtown
+2024-01-18,Tire,Tires & Wheels,98.27,2,Regular,Suburb
+2024-01-18,Battery,Electrical,65.42,1,Walk-in,Downtown
+2024-01-18,Power Steering Fluid,Fluids & Filters,158.17,4,Fleet,Suburb
+2024-01-18,Air Filter,Fluids & Filters,29.94,1,Walk-in,Suburb
+2024-01-18,Battery,Electrical,127.45,4,Walk-in,Suburb
+2024-01-18,Tire,Tires & Wheels,11.86,4,Walk-in,Suburb
+2024-01-18,Brake Pads,Brake System,26.69,1,Regular,Downtown
+2024-01-18,Cabin Air Filter,Fluids & Filters,24.93,2,Fleet,Suburb
+2024-01-18,Battery,Electrical,117.83,2,Regular,Suburb
+2024-01-18,Oil Filter,Fluids & Filters,17.82,4,Walk-in,Suburb
+2024-01-18,Brake Fluid,Brake System,33.6,3,Regular,Downtown
+2024-01-18,Battery,Electrical,127.15,3,Walk-in,Suburb
+2024-01-18,Power Steering Fluid,Fluids & Filters,175.48,2,Regular,Suburb
+2024-01-18,Fuel Filter,Fluids & Filters,126.33,3,Fleet,Downtown
+2024-01-18,Spark Plugs,Engine Parts,115.07,2,Regular,Suburb
+2024-01-18,Transmission Fluid,Fluids & Filters,101.37,3,Walk-in,Suburb
+2024-01-18,Transmission Fluid,Fluids & Filters,93.34,2,Regular,Suburb
+2024-01-18,Headlight Bulb,Electrical,133.56,1,Walk-in,Downtown
+2024-01-19,Air Filter,Fluids & Filters,195.41,4,Walk-in,Suburb
+2024-01-19,Cabin Air Filter,Fluids & Filters,160.04,3,Fleet,Suburb
+2024-01-19,Oil Filter,Fluids & Filters,13.96,3,Regular,Downtown
+2024-01-19,Tire,Tires & Wheels,195.21,3,Regular,Downtown
+2024-01-19,Air Filter,Fluids & Filters,51.91,2,Fleet,Downtown
+2024-01-19,Brake Pads,Brake System,169.69,1,Regular,Downtown
+2024-01-19,Transmission Fluid,Fluids & Filters,151.11,4,Walk-in,Suburb
+2024-01-19,Power Steering Fluid,Fluids & Filters,80.5,4,Regular,Downtown
+2024-01-19,Air Filter,Fluids & Filters,119.95,4,Regular,Downtown
+2024-01-19,Oil Filter,Fluids & Filters,102.47,2,Fleet,Suburb
+2024-01-19,Spark Plugs,Engine Parts,90.13,2,Fleet,Downtown
+2024-01-19,Transmission Fluid,Fluids & Filters,183.35,4,Fleet,Downtown
+2024-01-19,Oil Filter,Fluids & Filters,130.0,3,Walk-in,Downtown
+2024-01-19,Transmission Fluid,Fluids & Filters,146.01,4,Regular,Downtown
+2024-01-19,Transmission Fluid,Fluids & Filters,55.13,2,Regular,Downtown
+2024-01-19,Wiper Blades,Accessories,172.33,1,Walk-in,Suburb
+2024-01-19,Battery,Electrical,175.44,3,Regular,Suburb
+2024-01-19,Headlight Bulb,Electrical,78.25,2,Fleet,Suburb
+2024-01-19,Brake Pads,Brake System,84.31,1,Regular,Downtown
+2024-01-19,Wiper Blades,Accessories,11.72,1,Walk-in,Downtown
+2024-01-19,Brake Fluid,Brake System,177.9,2,Regular,Suburb
+2024-01-19,Transmission Fluid,Fluids & Filters,95.27,4,Regular,Downtown
+2024-01-19,Brake Pads,Brake System,95.39,4,Fleet,Suburb
+2024-01-19,Brake Pads,Brake System,57.98,2,Walk-in,Downtown
+2024-01-20,Wiper Blades,Accessories,111.37,1,Walk-in,Suburb
+2024-01-20,Power Steering Fluid,Fluids & Filters,94.81,3,Fleet,Suburb
+2024-01-20,Power Steering Fluid,Fluids & Filters,112.58,4,Regular,Suburb
+2024-01-20,Oil Filter,Fluids & Filters,33.36,1,Regular,Downtown
+2024-01-20,Brake Pads,Brake System,33.2,2,Walk-in,Downtown
+2024-01-20,Brake Fluid,Brake System,70.07,1,Fleet,Suburb
+2024-01-20,Power Steering Fluid,Fluids & Filters,38.19,1,Regular,Suburb
+2024-01-20,Brake Fluid,Brake System,10.94,2,Walk-in,Suburb
+2024-01-20,Cabin Air Filter,Fluids & Filters,174.9,3,Fleet,Downtown
+2024-01-20,Oil Filter,Fluids & Filters,75.1,2,Fleet,Suburb
+2024-01-20,Fuel Filter,Fluids & Filters,68.51,4,Regular,Suburb
+2024-01-20,Power Steering Fluid,Fluids & Filters,137.95,2,Walk-in,Downtown
+2024-01-20,Headlight Bulb,Electrical,137.79,4,Regular,Downtown
+2024-01-20,Battery,Electrical,58.51,1,Fleet,Downtown
+2024-01-20,Transmission Fluid,Fluids & Filters,81.12,2,Regular,Suburb
+2024-01-20,Brake Pads,Brake System,167.87,3,Walk-in,Suburb
+2024-01-20,Brake Fluid,Brake System,186.88,2,Walk-in,Downtown
+2024-01-20,Air Filter,Fluids & Filters,188.77,2,Walk-in,Suburb
+2024-01-20,Wiper Blades,Accessories,119.67,2,Regular,Suburb
+2024-01-21,Coolant,Fluids & Filters,174.62,1,Walk-in,Downtown
+2024-01-21,Wiper Blades,Accessories,117.73,1,Fleet,Suburb
+2024-01-21,Oil Filter,Fluids & Filters,86.79,2,Regular,Downtown
+2024-01-21,Battery,Electrical,181.26,1,Walk-in,Downtown
+2024-01-21,Air Filter,Fluids & Filters,175.09,1,Regular,Suburb
+2024-01-21,Headlight Bulb,Electrical,11.09,3,Walk-in,Suburb
+2024-01-21,Transmission Fluid,Fluids & Filters,85.27,1,Fleet,Suburb
+2024-01-21,Cabin Air Filter,Fluids & Filters,95.25,1,Walk-in,Downtown
+2024-01-21,Power Steering Fluid,Fluids & Filters,12.79,3,Fleet,Suburb
+2024-01-21,Fuel Filter,Fluids & Filters,132.09,2,Regular,Downtown
+2024-01-21,Air Filter,Fluids & Filters,113.05,4,Regular,Suburb
+2024-01-21,Power Steering Fluid,Fluids & Filters,14.87,2,Walk-in,Suburb
+2024-01-21,Wiper Blades,Accessories,85.78,1,Fleet,Suburb
+2024-01-21,Spark Plugs,Engine Parts,125.5,4,Fleet,Suburb
+2024-01-21,Fuel Filter,Fluids & Filters,146.44,3,Fleet,Downtown
+2024-01-21,Wiper Blades,Accessories,47.2,3,Fleet,Downtown
+2024-01-21,Power Steering Fluid,Fluids & Filters,191.39,4,Fleet,Downtown
+2024-01-21,Spark Plugs,Engine Parts,187.54,2,Fleet,Suburb
+2024-01-21,Fuel Filter,Fluids & Filters,102.32,4,Walk-in,Suburb
+2024-01-21,Fuel Filter,Fluids & Filters,68.39,3,Fleet,Suburb
+2024-01-22,Spark Plugs,Engine Parts,146.35,2,Walk-in,Downtown
+2024-01-22,Spark Plugs,Engine Parts,166.4,2,Fleet,Downtown
+2024-01-22,Power Steering Fluid,Fluids & Filters,44.47,1,Fleet,Downtown
+2024-01-22,Tire,Tires & Wheels,160.75,1,Regular,Suburb
+2024-01-22,Spark Plugs,Engine Parts,90.66,2,Fleet,Suburb
+2024-01-22,Brake Pads,Brake System,80.97,1,Regular,Downtown
+2024-01-22,Brake Fluid,Brake System,10.49,2,Regular,Downtown
+2024-01-22,Battery,Electrical,122.77,2,Walk-in,Downtown
+2024-01-22,Transmission Fluid,Fluids & Filters,43.21,1,Walk-in,Suburb
+2024-01-22,Tire,Tires & Wheels,156.29,1,Regular,Downtown
+2024-01-22,Wiper Blades,Accessories,67.39,4,Fleet,Suburb
+2024-01-22,Power Steering Fluid,Fluids & Filters,137.57,1,Regular,Downtown
+2024-01-22,Spark Plugs,Engine Parts,38.44,3,Regular,Downtown
+2024-01-22,Brake Pads,Brake System,150.01,2,Walk-in,Downtown
+2024-01-22,Wiper Blades,Accessories,28.19,4,Walk-in,Downtown
+2024-01-22,Air Filter,Fluids & Filters,125.35,4,Fleet,Suburb
+2024-01-22,Coolant,Fluids & Filters,84.27,1,Walk-in,Suburb
+2024-01-22,Coolant,Fluids & Filters,197.68,3,Fleet,Downtown
+2024-01-22,Oil Filter,Fluids & Filters,86.82,2,Walk-in,Downtown
+2024-01-22,Coolant,Fluids & Filters,141.56,3,Regular,Downtown
+2024-01-22,Spark Plugs,Engine Parts,147.62,2,Fleet,Downtown
+2024-01-22,Fuel Filter,Fluids & Filters,60.33,1,Walk-in,Suburb
+2024-01-22,Air Filter,Fluids & Filters,86.23,1,Fleet,Suburb
+2024-01-22,Coolant,Fluids & Filters,127.26,1,Walk-in,Suburb
+2024-01-23,Power Steering Fluid,Fluids & Filters,162.07,3,Walk-in,Suburb
+2024-01-23,Battery,Electrical,122.63,3,Regular,Suburb
+2024-01-23,Cabin Air Filter,Fluids & Filters,96.8,2,Regular,Suburb
+2024-01-23,Headlight Bulb,Electrical,81.91,2,Walk-in,Downtown
+2024-01-23,Oil Filter,Fluids & Filters,94.81,4,Regular,Suburb
+2024-01-23,Transmission Fluid,Fluids & Filters,191.95,1,Walk-in,Downtown
+2024-01-23,Coolant,Fluids & Filters,42.39,2,Regular,Suburb
+2024-01-23,Coolant,Fluids & Filters,166.14,4,Walk-in,Suburb
+2024-01-23,Power Steering Fluid,Fluids & Filters,196.43,3,Regular,Downtown
+2024-01-23,Headlight Bulb,Electrical,85.87,4,Regular,Downtown
+2024-01-23,Spark Plugs,Engine Parts,186.13,4,Walk-in,Downtown
+2024-01-23,Fuel Filter,Fluids & Filters,108.98,2,Regular,Suburb
+2024-01-23,Tire,Tires & Wheels,153.5,1,Walk-in,Suburb
+2024-01-23,Power Steering Fluid,Fluids & Filters,158.59,2,Walk-in,Suburb
+2024-01-23,Spark Plugs,Engine Parts,67.59,2,Walk-in,Suburb
+2024-01-23,Coolant,Fluids & Filters,26.65,3,Walk-in,Downtown
+2024-01-24,Brake Fluid,Brake System,166.8,2,Fleet,Suburb
+2024-01-24,Spark Plugs,Engine Parts,175.93,2,Fleet,Suburb
+2024-01-24,Brake Fluid,Brake System,119.17,4,Walk-in,Suburb
+2024-01-24,Transmission Fluid,Fluids & Filters,105.22,1,Regular,Suburb
+2024-01-24,Oil Filter,Fluids & Filters,129.31,2,Regular,Suburb
+2024-01-24,Fuel Filter,Fluids & Filters,163.13,4,Fleet,Suburb
+2024-01-24,Fuel Filter,Fluids & Filters,25.37,1,Fleet,Suburb
+2024-01-24,Brake Fluid,Brake System,142.04,2,Regular,Suburb
+2024-01-24,Oil Filter,Fluids & Filters,131.78,1,Regular,Downtown
+2024-01-24,Cabin Air Filter,Fluids & Filters,173.78,4,Fleet,Suburb
+2024-01-24,Brake Pads,Brake System,125.19,2,Regular,Downtown
+2024-01-24,Spark Plugs,Engine Parts,105.49,1,Regular,Downtown
+2024-01-24,Cabin Air Filter,Fluids & Filters,79.83,4,Walk-in,Suburb
+2024-01-24,Spark Plugs,Engine Parts,35.68,4,Walk-in,Suburb
+2024-01-24,Power Steering Fluid,Fluids & Filters,193.51,4,Walk-in,Downtown
+2024-01-25,Spark Plugs,Engine Parts,93.51,4,Fleet,Suburb
+2024-01-25,Cabin Air Filter,Fluids & Filters,13.36,2,Fleet,Downtown
+2024-01-25,Air Filter,Fluids & Filters,117.24,2,Regular,Downtown
+2024-01-25,Oil Filter,Fluids & Filters,102.07,2,Walk-in,Downtown
+2024-01-25,Tire,Tires & Wheels,66.5,3,Fleet,Downtown
+2024-01-25,Air Filter,Fluids & Filters,24.18,4,Regular,Suburb
+2024-01-25,Air Filter,Fluids & Filters,43.78,4,Walk-in,Suburb
+2024-01-25,Spark Plugs,Engine Parts,199.37,1,Walk-in,Downtown
+2024-01-25,Power Steering Fluid,Fluids & Filters,68.19,4,Regular,Downtown
+2024-01-25,Oil Filter,Fluids & Filters,34.83,4,Fleet,Suburb
+2024-01-25,Cabin Air Filter,Fluids & Filters,77.3,3,Regular,Suburb
+2024-01-25,Headlight Bulb,Electrical,149.39,2,Walk-in,Suburb
+2024-01-25,Headlight Bulb,Electrical,89.07,3,Walk-in,Suburb
+2024-01-25,Battery,Electrical,59.36,2,Fleet,Suburb
+2024-01-25,Tire,Tires & Wheels,111.71,1,Walk-in,Downtown
+2024-01-25,Transmission Fluid,Fluids & Filters,55.83,1,Walk-in,Suburb
+2024-01-25,Wiper Blades,Accessories,192.32,4,Walk-in,Downtown
+2024-01-25,Brake Pads,Brake System,114.11,3,Walk-in,Suburb
+2024-01-25,Headlight Bulb,Electrical,38.36,2,Regular,Suburb
+2024-01-25,Power Steering Fluid,Fluids & Filters,133.83,3,Walk-in,Downtown
+2024-01-25,Spark Plugs,Engine Parts,173.32,2,Walk-in,Suburb
+2024-01-25,Cabin Air Filter,Fluids & Filters,35.3,4,Walk-in,Suburb
+2024-01-25,Coolant,Fluids & Filters,189.14,2,Walk-in,Downtown
+2024-01-25,Transmission Fluid,Fluids & Filters,186.76,4,Walk-in,Suburb
+2024-01-25,Brake Fluid,Brake System,104.14,4,Fleet,Suburb
+2024-01-25,Tire,Tires & Wheels,53.12,1,Fleet,Suburb
+2024-01-25,Cabin Air Filter,Fluids & Filters,38.53,4,Walk-in,Downtown
+2024-01-25,Wiper Blades,Accessories,19.09,4,Walk-in,Downtown
+2024-01-26,Brake Pads,Brake System,23.7,4,Fleet,Suburb
+2024-01-26,Brake Pads,Brake System,191.74,1,Regular,Downtown
+2024-01-26,Fuel Filter,Fluids & Filters,198.4,4,Fleet,Downtown
+2024-01-26,Headlight Bulb,Electrical,158.93,3,Fleet,Suburb
+2024-01-26,Wiper Blades,Accessories,114.43,2,Regular,Suburb
+2024-01-26,Power Steering Fluid,Fluids & Filters,180.79,4,Walk-in,Downtown
+2024-01-26,Oil Filter,Fluids & Filters,136.8,3,Walk-in,Suburb
+2024-01-26,Fuel Filter,Fluids & Filters,59.54,1,Walk-in,Downtown
+2024-01-26,Transmission Fluid,Fluids & Filters,100.87,3,Regular,Suburb
+2024-01-26,Wiper Blades,Accessories,33.79,3,Regular,Suburb
+2024-01-26,Cabin Air Filter,Fluids & Filters,120.66,3,Regular,Downtown
+2024-01-26,Transmission Fluid,Fluids & Filters,74.27,4,Regular,Downtown
+2024-01-26,Coolant,Fluids & Filters,80.71,3,Regular,Suburb
+2024-01-26,Transmission Fluid,Fluids & Filters,126.46,2,Regular,Suburb
+2024-01-26,Wiper Blades,Accessories,138.44,3,Regular,Downtown
+2024-01-26,Tire,Tires & Wheels,198.56,2,Regular,Downtown
+2024-01-26,Headlight Bulb,Electrical,170.84,1,Fleet,Suburb
+2024-01-26,Wiper Blades,Accessories,153.46,1,Regular,Suburb
+2024-01-26,Fuel Filter,Fluids & Filters,148.41,3,Fleet,Suburb
+2024-01-26,Brake Fluid,Brake System,70.81,2,Fleet,Downtown
+2024-01-26,Battery,Electrical,112.52,1,Regular,Suburb
+2024-01-26,Cabin Air Filter,Fluids & Filters,140.21,4,Fleet,Suburb
+2024-01-26,Air Filter,Fluids & Filters,38.63,4,Walk-in,Suburb
+2024-01-26,Brake Fluid,Brake System,154.06,1,Fleet,Downtown
+2024-01-26,Battery,Electrical,117.35,1,Regular,Downtown
+2024-01-27,Coolant,Fluids & Filters,154.61,3,Regular,Suburb
+2024-01-27,Tire,Tires & Wheels,56.87,1,Fleet,Downtown
+2024-01-27,Spark Plugs,Engine Parts,28.84,4,Regular,Suburb
+2024-01-27,Brake Fluid,Brake System,69.08,1,Regular,Downtown
+2024-01-27,Brake Fluid,Brake System,45.72,1,Walk-in,Downtown
+2024-01-27,Spark Plugs,Engine Parts,109.59,2,Regular,Suburb
+2024-01-27,Battery,Electrical,168.21,2,Regular,Downtown
+2024-01-27,Oil Filter,Fluids & Filters,154.15,4,Fleet,Suburb
+2024-01-27,Air Filter,Fluids & Filters,169.97,2,Fleet,Downtown
+2024-01-27,Transmission Fluid,Fluids & Filters,79.98,1,Regular,Suburb
+2024-01-27,Battery,Electrical,122.68,1,Regular,Downtown
+2024-01-27,Battery,Electrical,142.17,1,Regular,Suburb
+2024-01-27,Fuel Filter,Fluids & Filters,77.54,1,Walk-in,Suburb
+2024-01-27,Brake Pads,Brake System,121.76,4,Walk-in,Suburb
+2024-01-27,Air Filter,Fluids & Filters,22.32,4,Regular,Downtown
+2024-01-27,Spark Plugs,Engine Parts,116.53,2,Regular,Suburb
+2024-01-27,Oil Filter,Fluids & Filters,124.41,4,Fleet,Downtown
+2024-01-27,Fuel Filter,Fluids & Filters,38.31,4,Walk-in,Suburb
+2024-01-27,Fuel Filter,Fluids & Filters,196.57,1,Fleet,Suburb
+2024-01-27,Air Filter,Fluids & Filters,93.64,4,Regular,Downtown
+2024-01-27,Brake Pads,Brake System,92.46,2,Fleet,Suburb
+2024-01-27,Brake Pads,Brake System,123.66,3,Fleet,Downtown
+2024-01-27,Coolant,Fluids & Filters,187.29,1,Walk-in,Downtown
+2024-01-27,Battery,Electrical,130.87,4,Fleet,Downtown
+2024-01-27,Battery,Electrical,198.31,4,Fleet,Downtown
+2024-01-27,Coolant,Fluids & Filters,190.56,1,Walk-in,Suburb
+2024-01-28,Transmission Fluid,Fluids & Filters,73.56,1,Fleet,Downtown
+2024-01-28,Fuel Filter,Fluids & Filters,168.02,1,Regular,Downtown
+2024-01-28,Brake Fluid,Brake System,66.76,1,Fleet,Suburb
+2024-01-28,Air Filter,Fluids & Filters,91.63,3,Walk-in,Downtown
+2024-01-28,Wiper Blades,Accessories,101.37,1,Regular,Suburb
+2024-01-28,Wiper Blades,Accessories,144.14,2,Regular,Downtown
+2024-01-28,Headlight Bulb,Electrical,104.33,1,Walk-in,Suburb
+2024-01-28,Battery,Electrical,20.88,2,Walk-in,Downtown
+2024-01-28,Spark Plugs,Engine Parts,134.82,4,Walk-in,Suburb
+2024-01-28,Tire,Tires & Wheels,20.84,2,Regular,Suburb
+2024-01-28,Headlight Bulb,Electrical,56.93,4,Regular,Suburb
+2024-01-28,Transmission Fluid,Fluids & Filters,61.67,2,Fleet,Suburb
+2024-01-28,Coolant,Fluids & Filters,157.58,4,Walk-in,Downtown
+2024-01-28,Spark Plugs,Engine Parts,16.39,4,Regular,Suburb
+2024-01-28,Brake Fluid,Brake System,36.46,4,Regular,Downtown
+2024-01-28,Brake Fluid,Brake System,76.0,3,Fleet,Suburb
+2024-01-28,Tire,Tires & Wheels,114.18,4,Fleet,Suburb
+2024-01-28,Headlight Bulb,Electrical,84.76,2,Regular,Downtown
+2024-01-28,Wiper Blades,Accessories,196.45,2,Walk-in,Downtown
+2024-01-28,Headlight Bulb,Electrical,47.64,4,Walk-in,Downtown
+2024-01-28,Air Filter,Fluids & Filters,194.68,4,Walk-in,Downtown
+2024-01-28,Coolant,Fluids & Filters,14.19,1,Fleet,Suburb
+2024-01-28,Coolant,Fluids & Filters,171.62,3,Walk-in,Downtown
+2024-01-28,Tire,Tires & Wheels,31.81,2,Regular,Downtown
+2024-01-28,Coolant,Fluids & Filters,160.42,1,Walk-in,Suburb
+2024-01-28,Battery,Electrical,52.97,2,Walk-in,Suburb
+2024-01-28,Wiper Blades,Accessories,36.78,2,Walk-in,Suburb
+2024-01-29,Oil Filter,Fluids & Filters,173.78,3,Walk-in,Downtown
+2024-01-29,Battery,Electrical,65.21,3,Regular,Suburb
+2024-01-29,Brake Fluid,Brake System,97.26,4,Fleet,Downtown
+2024-01-29,Brake Pads,Brake System,48.26,3,Walk-in,Suburb
+2024-01-29,Transmission Fluid,Fluids & Filters,72.74,2,Regular,Downtown
+2024-01-29,Tire,Tires & Wheels,33.99,3,Regular,Suburb
+2024-01-29,Power Steering Fluid,Fluids & Filters,58.54,1,Walk-in,Suburb
+2024-01-29,Transmission Fluid,Fluids & Filters,152.64,1,Fleet,Suburb
+2024-01-29,Coolant,Fluids & Filters,27.89,3,Walk-in,Suburb
+2024-01-29,Spark Plugs,Engine Parts,161.69,3,Fleet,Downtown
+2024-01-29,Brake Fluid,Brake System,82.28,3,Walk-in,Downtown
+2024-01-29,Brake Fluid,Brake System,48.72,2,Walk-in,Suburb
+2024-01-29,Wiper Blades,Accessories,130.57,3,Walk-in,Downtown
+2024-01-29,Fuel Filter,Fluids & Filters,111.28,2,Regular,Suburb
+2024-01-29,Oil Filter,Fluids & Filters,70.18,3,Walk-in,Downtown
+2024-01-29,Brake Fluid,Brake System,62.61,4,Regular,Downtown
+2024-01-29,Power Steering Fluid,Fluids & Filters,48.38,4,Walk-in,Suburb
+2024-01-29,Power Steering Fluid,Fluids & Filters,165.87,1,Regular,Suburb
+2024-01-29,Fuel Filter,Fluids & Filters,25.86,4,Walk-in,Suburb
+2024-01-29,Brake Fluid,Brake System,105.99,4,Walk-in,Downtown
+2024-01-29,Cabin Air Filter,Fluids & Filters,196.98,1,Regular,Downtown
+2024-01-29,Oil Filter,Fluids & Filters,41.53,2,Regular,Downtown
+2024-01-29,Brake Fluid,Brake System,40.82,3,Walk-in,Downtown
+2024-01-29,Air Filter,Fluids & Filters,110.21,1,Regular,Suburb
+2024-01-30,Fuel Filter,Fluids & Filters,148.98,1,Walk-in,Downtown
+2024-01-30,Spark Plugs,Engine Parts,184.46,2,Fleet,Suburb
+2024-01-30,Power Steering Fluid,Fluids & Filters,197.73,2,Fleet,Suburb
+2024-01-30,Power Steering Fluid,Fluids & Filters,69.67,4,Regular,Suburb
+2024-01-30,Air Filter,Fluids & Filters,177.17,2,Regular,Suburb
+2024-01-30,Wiper Blades,Accessories,31.46,2,Regular,Downtown
+2024-01-30,Wiper Blades,Accessories,89.82,2,Walk-in,Downtown
+2024-01-30,Oil Filter,Fluids & Filters,152.28,1,Fleet,Suburb
+2024-01-30,Battery,Electrical,150.23,4,Fleet,Suburb
+2024-01-30,Brake Fluid,Brake System,130.49,4,Walk-in,Suburb
+2024-01-30,Oil Filter,Fluids & Filters,71.77,4,Fleet,Downtown
+2024-01-30,Battery,Electrical,172.59,4,Walk-in,Suburb
+2024-01-30,Headlight Bulb,Electrical,63.06,3,Fleet,Suburb
+2024-01-30,Transmission Fluid,Fluids & Filters,107.4,2,Fleet,Downtown
+2024-01-30,Wiper Blades,Accessories,16.31,1,Walk-in,Suburb
+2024-01-30,Spark Plugs,Engine Parts,188.28,4,Walk-in,Downtown
+2024-01-30,Coolant,Fluids & Filters,159.8,1,Fleet,Suburb
+2024-01-30,Air Filter,Fluids & Filters,182.37,3,Fleet,Downtown
+2024-01-30,Brake Fluid,Brake System,31.09,4,Regular,Suburb
+2024-01-30,Fuel Filter,Fluids & Filters,174.27,4,Regular,Downtown
+2024-01-30,Air Filter,Fluids & Filters,195.59,2,Fleet,Suburb
+2024-01-30,Brake Pads,Brake System,17.98,4,Regular,Suburb
+2024-01-30,Battery,Electrical,63.21,4,Walk-in,Downtown
+2024-01-30,Fuel Filter,Fluids & Filters,183.05,2,Fleet,Downtown
+2024-01-30,Power Steering Fluid,Fluids & Filters,13.42,3,Regular,Downtown
+2024-01-30,Coolant,Fluids & Filters,67.9,3,Walk-in,Suburb
+2024-01-30,Air Filter,Fluids & Filters,175.82,2,Regular,Downtown
+2024-01-30,Cabin Air Filter,Fluids & Filters,22.98,1,Regular,Downtown
