@@ -1,39 +1,72 @@
 import pandas as pd
+
 # ============================================
 # CHALLENGE 1A: Product Performance Analysis
 # ============================================
 print("\n📦 CHALLENGE 1A: Product Performance\n")
-#Load data
+
+# Load data
 df = pd.read_csv('retail_sales.csv')
 df['date'] = pd.to_datetime(df['date'])
 df['revenue'] = df['price'] * df['quantity']
-#Calculate total revenue by product
+
+# Revenue analysis
+print("=" * 50)
+print("REVENUE ANALYSIS")
+print("=" * 50)
+
 rev_product = df.groupby('product')['revenue'].sum()
 best_product = rev_product.idxmax()
 best_product_rev = rev_product.max()
-print(f"{best_product} generate highest revenue with ${best_product_rev}")
-print("Top five products by Revenue:")
-Sorted_rev_product = rev_product.sort_values(ascending=False)
-print(Sorted_rev_product.head(5)) # wanted to print it nicely using loop and enumerate but i don't have my note i remember i can do something like this and where i have done it before but can't from memory
-print()
-#Calculate total quantity sold by product
+
+print(f"\n🏆 Top Revenue: {best_product} (${best_product_rev:,.2f})")
+
+print("\nTop 5 Products by Revenue:")
+for i, (product, revenue) in enumerate(rev_product.sort_values(ascending=False).head(5).items(), 1):
+    print(f"  {i}. {product}: ${revenue:,.2f}")
+
+# Quantity analysis
+print("\n" + "=" * 50)
+print("QUANTITY ANALYSIS")
+print("=" * 50)
+
 qtt_product = df.groupby('product')['quantity'].sum()
 most_sold = qtt_product.idxmax()
 most_sold_qtt = qtt_product.max()
-print(f"{most_sold} is most sold product with {most_sold_qtt} items sold")
-print("Top five products by Quantity:")
-sorted_qtt_product = qtt_product.sort_values(ascending=False)
-print(sorted_qtt_product.head(5))
-print()
+
+print(f"\n🏆 Most Sold: {most_sold} ({most_sold_qtt} units)")
+
+print("\nTop 5 Products by Quantity:")
+for i, (product, quantity) in enumerate(qtt_product.sort_values(ascending=False).head(5).items(), 1):
+    print(f"  {i}. {product}: {quantity} units")
+
+# Price analysis
+print("\n" + "=" * 50)
+print("PRICE ANALYSIS")
+print("=" * 50)
+
 avg_product = rev_product / qtt_product
 most_exp = avg_product.idxmax()
-print("Average price by product:")
-print(avg_product)
-print(f" The most expensive product on average is {most_exp} ")
+
+print(f"\n💰 Most Expensive Average: {most_exp} (${avg_product[most_exp]:.2f})")
+
+print("\nAverage Price by Product:")
+for product, price in avg_product.sort_values(ascending=False).items():
+    print(f"  {product}: ${price:.2f}")
+
+# Comparison
+print("\n" + "=" * 50)
+print("KEY INSIGHT")
+print("=" * 50)
+
 if best_product == most_sold:
-    print("✅ Yes, same product!")
+    print("✅ Revenue leader = Quantity leader")
 else:
-    print(f"❌ No, revenue leader is {best_product} and quantity leader is {most_sold}")
+    print(f"❌ Different leaders:")
+    print(f"   Revenue: {best_product}")
+    print(f"   Quantity: {most_sold}")
+
+print("\n✅ Challenge 1A Complete!")
 # ============================================
 # CHALLENGE 1B: Customer Segmentation
 # ============================================
@@ -71,10 +104,11 @@ for customer_type in product_customer_type.index:
 print("\n" + "=" * 60)
 print("📊 STRATEGIC RECOMMENDATION")
 print("=" * 60)
-# Let's summarize what we found:
+
+# Summary of findings
 print("\n📋 SUMMARY OF FINDINGS:\n")
 
-for customer_type in rev_customer.index:
+for customer_type in rev_customer.sort_values(ascending=False).index:
     revenue = rev_customer[customer_type]
     revenue_pct = percent_customer_revenue[customer_type]
     transactions = trans_count[customer_type]
@@ -86,6 +120,36 @@ for customer_type in rev_customer.index:
     print(f"  Transactions: {transactions} ({trans_pct:.1f}% of total)")
     print(f"  Average: ${avg_value:.2f} per transaction")
     print()
-print("Recommendation: Focus on Walk-In customers")
-print(f"They generate ${revenue:,.2f} ({revenue_pct:.1f}% of total)") #how can i get the exact value for customer segment i want? right now it works because walkin is last in loop, right?
-print(f"Action: Offer Strong Fidelity Program to make them part of Regular customer These are our wilds card this month they shop with us if next month they go away we lose that Revenue")
+
+# Strategic recommendation
+print("\n" + "=" * 60)
+print("💡 STRATEGIC RECOMMENDATION")
+print("=" * 60)
+
+# Get Walk-in specific metrics
+walkin_revenue = rev_customer['Walk-in']
+walkin_pct = percent_customer_revenue['Walk-in']
+walkin_trans = trans_count['Walk-in']
+
+print("\nPRIORITY: CONVERT WALK-IN TO REGULAR CUSTOMERS\n")
+print(f"Walk-ins generate ${walkin_revenue:,.2f} ({walkin_pct:.1f}% of total revenue)")
+print("This revenue is FRAGILE - these customers have no loyalty\n")
+
+# Calculate opportunity
+conversion_rate = 0.30
+secured_revenue = walkin_revenue * conversion_rate
+
+print(f"OPPORTUNITY: Converting 30% of Walk-ins to Regulars")
+print(f"  → Secures ${secured_revenue:,.2f} in recurring revenue")
+print(f"  → Adds {int(walkin_trans * conversion_rate)} loyal customers")
+print(f"  → Reduces revenue risk significantly\n")
+
+print("ACTION PLAN:")
+print("  1. Capture email/phone at checkout")
+print("  2. Follow-up offer: 10% off next purchase")
+print("  3. Launch loyalty program: Buy 5 get 1 free")
+print("  4. Monthly tracking of conversion rate\n")
+
+print("SUCCESS METRIC: 30% Walk-in → Regular conversion in 6 months")
+
+print("\n✅ Challenge 1B Complete!")
