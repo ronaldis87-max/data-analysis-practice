@@ -1,0 +1,856 @@
+date,meal_type,category,item_name,price,quantity,payment_method,server
+2024-01-01,Breakfast,Dessert,Juice,40.09,1,Mobile,Bob
+2024-01-01,Dinner,Dessert,Juice,25.67,1,Mobile,Bob
+2024-01-01,Breakfast,Main Course,Cake,42.46,2,Card,Diana
+2024-01-01,Breakfast,Appetizer,Soda,32.52,1,Cash,Alice
+2024-01-01,Dinner,Dessert,Coffee,7.1,3,Card,Bob
+2024-01-01,Dinner,Main Course,Burger,22.21,1,Mobile,Alice
+2024-01-01,Dinner,Dessert,Steak,25.27,2,Cash,Diana
+2024-01-01,Lunch,Main Course,Coffee,18.71,1,Card,Diana
+2024-01-01,Dinner,Beverage,Soup,32.45,3,Mobile,Bob
+2024-01-01,Breakfast,Beverage,Omelette,34.81,2,Card,Bob
+2024-01-01,Lunch,Main Course,Salad,13.32,3,Card,Bob
+2024-01-01,Lunch,Main Course,Salad,31.91,3,Card,Charlie
+2024-01-01,Breakfast,Main Course,Cake,43.0,1,Card,Charlie
+2024-01-01,Breakfast,Beverage,Coffee,48.44,1,Cash,Alice
+2024-01-01,Dinner,Appetizer,Pancakes,5.7,1,Cash,Diana
+2024-01-01,Dinner,Dessert,Burger,36.81,3,Mobile,Alice
+2024-01-01,Dinner,Appetizer,Coffee,21.13,1,Mobile,Alice
+2024-01-01,Lunch,Appetizer,Soup,18.99,1,Mobile,Diana
+2024-01-01,Lunch,Dessert,Burger,26.25,1,Mobile,Bob
+2024-01-01,Dinner,Appetizer,Steak,30.26,3,Card,Charlie
+2024-01-01,Dinner,Appetizer,Coffee,6.14,1,Mobile,Charlie
+2024-01-01,Dinner,Appetizer,Salad,30.35,2,Cash,Charlie
+2024-01-01,Dinner,Appetizer,Juice,14.14,1,Mobile,Charlie
+2024-01-01,Dinner,Main Course,Soda,46.84,1,Card,Alice
+2024-01-01,Breakfast,Main Course,Soda,41.17,2,Card,Charlie
+2024-01-01,Lunch,Dessert,Soda,21.03,2,Cash,Alice
+2024-01-02,Breakfast,Appetizer,Burger,5.31,3,Cash,Bob
+2024-01-02,Breakfast,Appetizer,Burger,17.12,3,Mobile,Bob
+2024-01-02,Breakfast,Beverage,Pancakes,7.92,2,Card,Charlie
+2024-01-02,Lunch,Dessert,Pancakes,11.66,1,Mobile,Alice
+2024-01-02,Lunch,Main Course,Soda,7.32,1,Cash,Alice
+2024-01-02,Dinner,Main Course,Omelette,28.89,2,Card,Diana
+2024-01-02,Dinner,Beverage,Soup,39.27,3,Cash,Charlie
+2024-01-02,Lunch,Beverage,Steak,33.45,2,Card,Charlie
+2024-01-02,Dinner,Beverage,Pancakes,11.78,3,Card,Diana
+2024-01-02,Breakfast,Dessert,Salad,19.67,3,Card,Charlie
+2024-01-02,Dinner,Dessert,Salad,34.03,1,Cash,Diana
+2024-01-02,Dinner,Main Course,Cake,11.19,1,Cash,Bob
+2024-01-02,Dinner,Dessert,Coffee,16.61,2,Cash,Diana
+2024-01-02,Breakfast,Main Course,Pancakes,9.19,1,Cash,Diana
+2024-01-02,Dinner,Dessert,Ice Cream,17.55,3,Mobile,Diana
+2024-01-02,Lunch,Beverage,Pancakes,33.89,3,Cash,Diana
+2024-01-02,Lunch,Beverage,Salad,31.13,2,Cash,Charlie
+2024-01-02,Breakfast,Appetizer,Omelette,12.24,2,Card,Bob
+2024-01-02,Dinner,Beverage,Ice Cream,12.92,1,Card,Alice
+2024-01-02,Dinner,Dessert,Pancakes,18.86,3,Mobile,Bob
+2024-01-02,Dinner,Main Course,Pasta,49.05,3,Card,Diana
+2024-01-02,Dinner,Dessert,Omelette,20.75,1,Mobile,Diana
+2024-01-02,Breakfast,Appetizer,Soda,37.51,3,Mobile,Diana
+2024-01-02,Breakfast,Beverage,Pancakes,49.75,2,Cash,Bob
+2024-01-02,Breakfast,Main Course,Burger,38.65,1,Cash,Alice
+2024-01-02,Lunch,Appetizer,Burger,49.11,3,Cash,Alice
+2024-01-02,Dinner,Appetizer,Burger,12.63,1,Card,Charlie
+2024-01-02,Lunch,Main Course,Burger,30.65,2,Mobile,Bob
+2024-01-02,Dinner,Main Course,Juice,18.29,2,Cash,Diana
+2024-01-02,Breakfast,Appetizer,Juice,36.9,3,Cash,Bob
+2024-01-02,Dinner,Main Course,Burger,16.53,1,Card,Charlie
+2024-01-02,Breakfast,Beverage,Salad,34.25,2,Card,Diana
+2024-01-02,Dinner,Dessert,Soda,31.05,3,Mobile,Bob
+2024-01-02,Dinner,Appetizer,Coffee,29.42,1,Card,Bob
+2024-01-02,Lunch,Main Course,Pancakes,6.68,2,Mobile,Bob
+2024-01-02,Dinner,Beverage,Steak,28.5,1,Cash,Charlie
+2024-01-02,Lunch,Appetizer,Salad,23.51,3,Mobile,Diana
+2024-01-02,Breakfast,Main Course,Soda,37.16,3,Cash,Diana
+2024-01-02,Dinner,Dessert,Soda,38.48,2,Cash,Bob
+2024-01-03,Breakfast,Appetizer,Coffee,46.18,3,Card,Diana
+2024-01-03,Lunch,Main Course,Ice Cream,34.71,1,Cash,Diana
+2024-01-03,Breakfast,Dessert,Steak,32.53,3,Mobile,Diana
+2024-01-03,Lunch,Beverage,Burger,39.1,1,Cash,Bob
+2024-01-03,Breakfast,Dessert,Pancakes,19.01,2,Cash,Diana
+2024-01-03,Lunch,Main Course,Steak,26.31,1,Card,Bob
+2024-01-03,Breakfast,Dessert,Coffee,32.71,1,Card,Diana
+2024-01-03,Dinner,Main Course,Coffee,47.0,1,Cash,Alice
+2024-01-03,Dinner,Main Course,Pancakes,44.02,3,Card,Charlie
+2024-01-03,Breakfast,Appetizer,Burger,41.93,3,Cash,Alice
+2024-01-03,Lunch,Dessert,Soda,17.33,3,Card,Bob
+2024-01-03,Breakfast,Dessert,Omelette,35.74,1,Card,Diana
+2024-01-03,Breakfast,Main Course,Coffee,6.05,2,Mobile,Alice
+2024-01-03,Dinner,Beverage,Coffee,36.35,1,Mobile,Alice
+2024-01-03,Breakfast,Appetizer,Ice Cream,29.66,1,Cash,Diana
+2024-01-03,Dinner,Appetizer,Burger,23.57,2,Cash,Charlie
+2024-01-03,Dinner,Main Course,Steak,15.74,3,Cash,Charlie
+2024-01-03,Breakfast,Dessert,Ice Cream,22.0,1,Card,Diana
+2024-01-03,Breakfast,Main Course,Juice,9.5,1,Cash,Charlie
+2024-01-03,Breakfast,Dessert,Soda,47.75,3,Card,Charlie
+2024-01-03,Breakfast,Appetizer,Burger,32.11,3,Cash,Diana
+2024-01-03,Breakfast,Dessert,Ice Cream,10.11,1,Card,Bob
+2024-01-03,Dinner,Main Course,Coffee,24.87,3,Cash,Charlie
+2024-01-03,Dinner,Main Course,Soda,35.96,2,Cash,Alice
+2024-01-03,Lunch,Dessert,Cake,8.27,2,Mobile,Bob
+2024-01-03,Lunch,Appetizer,Steak,15.5,1,Cash,Bob
+2024-01-03,Breakfast,Dessert,Soup,49.37,2,Mobile,Charlie
+2024-01-03,Breakfast,Beverage,Pasta,36.73,2,Card,Charlie
+2024-01-04,Lunch,Dessert,Omelette,26.09,2,Cash,Charlie
+2024-01-04,Breakfast,Dessert,Pancakes,35.65,2,Cash,Charlie
+2024-01-04,Breakfast,Appetizer,Cake,28.78,1,Card,Bob
+2024-01-04,Breakfast,Beverage,Steak,6.95,1,Mobile,Diana
+2024-01-04,Breakfast,Beverage,Burger,36.29,1,Card,Charlie
+2024-01-04,Breakfast,Appetizer,Pancakes,33.24,2,Mobile,Diana
+2024-01-04,Dinner,Appetizer,Juice,17.64,2,Cash,Diana
+2024-01-04,Lunch,Beverage,Salad,25.87,2,Card,Diana
+2024-01-04,Breakfast,Appetizer,Salad,49.38,2,Mobile,Alice
+2024-01-04,Breakfast,Appetizer,Steak,41.62,1,Cash,Bob
+2024-01-04,Dinner,Appetizer,Pasta,47.74,1,Mobile,Alice
+2024-01-04,Lunch,Main Course,Cake,44.45,3,Cash,Alice
+2024-01-04,Dinner,Beverage,Pancakes,39.99,2,Mobile,Alice
+2024-01-04,Dinner,Appetizer,Coffee,22.14,2,Mobile,Charlie
+2024-01-04,Breakfast,Appetizer,Pancakes,26.09,3,Mobile,Alice
+2024-01-04,Breakfast,Beverage,Soup,43.91,1,Cash,Charlie
+2024-01-04,Breakfast,Main Course,Burger,29.99,1,Cash,Alice
+2024-01-04,Lunch,Main Course,Burger,16.13,2,Cash,Bob
+2024-01-04,Breakfast,Dessert,Salad,15.29,1,Card,Diana
+2024-01-04,Dinner,Beverage,Soup,35.22,2,Card,Bob
+2024-01-04,Dinner,Dessert,Omelette,43.35,2,Cash,Bob
+2024-01-04,Lunch,Dessert,Ice Cream,31.55,3,Mobile,Charlie
+2024-01-04,Dinner,Appetizer,Steak,33.77,3,Mobile,Charlie
+2024-01-04,Lunch,Beverage,Soda,49.12,2,Card,Bob
+2024-01-04,Lunch,Dessert,Juice,9.1,2,Cash,Bob
+2024-01-04,Breakfast,Beverage,Soda,18.41,2,Mobile,Alice
+2024-01-05,Breakfast,Beverage,Coffee,46.7,2,Cash,Diana
+2024-01-05,Breakfast,Main Course,Pasta,27.17,1,Card,Charlie
+2024-01-05,Dinner,Beverage,Juice,8.41,1,Mobile,Charlie
+2024-01-05,Dinner,Dessert,Pasta,36.4,1,Mobile,Diana
+2024-01-05,Dinner,Dessert,Omelette,32.09,3,Mobile,Alice
+2024-01-05,Breakfast,Main Course,Soda,20.64,2,Cash,Bob
+2024-01-05,Breakfast,Appetizer,Ice Cream,21.02,2,Card,Alice
+2024-01-05,Lunch,Main Course,Juice,6.77,1,Mobile,Alice
+2024-01-05,Lunch,Dessert,Cake,44.31,3,Cash,Alice
+2024-01-05,Lunch,Beverage,Pancakes,8.8,3,Cash,Diana
+2024-01-05,Dinner,Dessert,Cake,26.8,2,Mobile,Bob
+2024-01-05,Lunch,Appetizer,Coffee,6.65,3,Mobile,Charlie
+2024-01-05,Dinner,Dessert,Juice,28.95,1,Card,Bob
+2024-01-05,Lunch,Dessert,Burger,15.91,1,Mobile,Alice
+2024-01-05,Lunch,Dessert,Ice Cream,42.83,2,Card,Bob
+2024-01-05,Breakfast,Appetizer,Salad,26.33,2,Mobile,Alice
+2024-01-05,Breakfast,Main Course,Salad,29.17,2,Mobile,Diana
+2024-01-05,Breakfast,Beverage,Burger,22.04,1,Card,Diana
+2024-01-05,Lunch,Beverage,Omelette,16.0,3,Cash,Bob
+2024-01-05,Breakfast,Appetizer,Pancakes,5.34,1,Card,Bob
+2024-01-05,Dinner,Beverage,Salad,43.29,2,Card,Bob
+2024-01-05,Dinner,Beverage,Soup,42.9,3,Mobile,Charlie
+2024-01-05,Breakfast,Beverage,Cake,10.04,2,Mobile,Diana
+2024-01-05,Dinner,Main Course,Pasta,16.61,2,Mobile,Bob
+2024-01-06,Dinner,Dessert,Cake,26.45,1,Cash,Bob
+2024-01-06,Lunch,Main Course,Salad,24.14,1,Cash,Diana
+2024-01-06,Dinner,Appetizer,Coffee,39.55,2,Cash,Bob
+2024-01-06,Dinner,Dessert,Salad,19.43,3,Cash,Bob
+2024-01-06,Lunch,Beverage,Coffee,29.69,2,Card,Alice
+2024-01-06,Lunch,Beverage,Pancakes,11.25,1,Cash,Alice
+2024-01-06,Dinner,Dessert,Cake,32.27,3,Card,Charlie
+2024-01-06,Breakfast,Appetizer,Soda,48.43,2,Cash,Diana
+2024-01-06,Dinner,Appetizer,Omelette,13.16,3,Cash,Diana
+2024-01-06,Lunch,Beverage,Cake,42.26,1,Card,Diana
+2024-01-06,Lunch,Dessert,Steak,13.39,3,Mobile,Bob
+2024-01-06,Lunch,Main Course,Salad,19.23,2,Cash,Bob
+2024-01-06,Dinner,Beverage,Burger,33.08,1,Mobile,Charlie
+2024-01-06,Dinner,Appetizer,Ice Cream,20.99,3,Mobile,Bob
+2024-01-06,Lunch,Appetizer,Cake,15.31,3,Mobile,Bob
+2024-01-06,Lunch,Dessert,Soup,37.87,2,Mobile,Charlie
+2024-01-06,Breakfast,Appetizer,Salad,38.37,3,Cash,Bob
+2024-01-06,Breakfast,Appetizer,Steak,40.04,1,Card,Diana
+2024-01-06,Lunch,Main Course,Coffee,27.23,2,Cash,Bob
+2024-01-06,Lunch,Appetizer,Salad,25.57,3,Cash,Diana
+2024-01-06,Breakfast,Appetizer,Salad,37.5,2,Mobile,Charlie
+2024-01-07,Dinner,Beverage,Salad,37.23,3,Cash,Diana
+2024-01-07,Dinner,Main Course,Coffee,20.41,2,Mobile,Charlie
+2024-01-07,Lunch,Main Course,Juice,11.9,1,Card,Bob
+2024-01-07,Breakfast,Appetizer,Cake,44.25,1,Cash,Diana
+2024-01-07,Dinner,Main Course,Pancakes,30.93,2,Cash,Bob
+2024-01-07,Dinner,Appetizer,Cake,42.82,3,Mobile,Alice
+2024-01-07,Lunch,Appetizer,Steak,12.45,2,Mobile,Alice
+2024-01-07,Breakfast,Dessert,Pasta,28.35,3,Cash,Charlie
+2024-01-07,Breakfast,Appetizer,Ice Cream,14.25,1,Cash,Bob
+2024-01-07,Breakfast,Dessert,Salad,29.18,3,Card,Bob
+2024-01-07,Dinner,Main Course,Juice,38.19,1,Mobile,Charlie
+2024-01-07,Dinner,Dessert,Pasta,12.94,3,Card,Alice
+2024-01-07,Breakfast,Appetizer,Juice,33.45,2,Cash,Alice
+2024-01-07,Dinner,Appetizer,Salad,25.65,2,Card,Diana
+2024-01-07,Dinner,Appetizer,Cake,27.6,1,Cash,Bob
+2024-01-07,Dinner,Dessert,Juice,40.99,2,Card,Alice
+2024-01-07,Breakfast,Appetizer,Cake,31.44,1,Card,Charlie
+2024-01-07,Dinner,Main Course,Omelette,29.05,1,Card,Bob
+2024-01-07,Lunch,Dessert,Salad,13.19,1,Mobile,Charlie
+2024-01-07,Dinner,Beverage,Coffee,17.18,2,Card,Diana
+2024-01-07,Breakfast,Dessert,Soup,12.03,2,Mobile,Alice
+2024-01-07,Breakfast,Appetizer,Soup,16.42,3,Mobile,Charlie
+2024-01-07,Breakfast,Beverage,Pasta,20.27,1,Mobile,Charlie
+2024-01-07,Breakfast,Beverage,Cake,9.47,2,Card,Charlie
+2024-01-07,Breakfast,Main Course,Steak,23.29,3,Card,Charlie
+2024-01-07,Lunch,Dessert,Pancakes,14.35,3,Cash,Charlie
+2024-01-07,Breakfast,Beverage,Omelette,45.17,3,Cash,Diana
+2024-01-07,Dinner,Main Course,Omelette,21.34,3,Cash,Alice
+2024-01-07,Lunch,Beverage,Ice Cream,24.63,3,Card,Bob
+2024-01-07,Breakfast,Main Course,Cake,49.34,3,Cash,Bob
+2024-01-07,Dinner,Appetizer,Ice Cream,29.37,1,Cash,Charlie
+2024-01-07,Breakfast,Main Course,Pasta,42.57,2,Card,Alice
+2024-01-07,Breakfast,Main Course,Soup,35.74,2,Card,Diana
+2024-01-07,Breakfast,Main Course,Salad,27.41,2,Cash,Alice
+2024-01-07,Breakfast,Main Course,Coffee,37.41,1,Card,Bob
+2024-01-07,Breakfast,Dessert,Ice Cream,16.99,3,Card,Diana
+2024-01-07,Breakfast,Appetizer,Steak,12.89,1,Cash,Bob
+2024-01-07,Breakfast,Beverage,Coffee,23.99,2,Card,Charlie
+2024-01-08,Dinner,Appetizer,Salad,39.69,1,Cash,Charlie
+2024-01-08,Dinner,Beverage,Salad,37.36,3,Mobile,Bob
+2024-01-08,Lunch,Dessert,Cake,47.16,1,Cash,Bob
+2024-01-08,Dinner,Beverage,Burger,31.78,3,Cash,Bob
+2024-01-08,Dinner,Appetizer,Juice,20.04,2,Card,Alice
+2024-01-08,Breakfast,Appetizer,Cake,37.77,1,Cash,Charlie
+2024-01-08,Lunch,Appetizer,Soup,8.42,2,Cash,Diana
+2024-01-08,Dinner,Main Course,Pasta,31.56,3,Cash,Diana
+2024-01-08,Dinner,Dessert,Pancakes,11.16,2,Cash,Charlie
+2024-01-08,Breakfast,Dessert,Soda,29.39,3,Mobile,Alice
+2024-01-08,Breakfast,Dessert,Steak,36.15,2,Cash,Bob
+2024-01-08,Breakfast,Beverage,Juice,49.45,1,Card,Charlie
+2024-01-08,Lunch,Beverage,Soup,49.97,2,Cash,Bob
+2024-01-08,Lunch,Dessert,Steak,37.9,3,Card,Charlie
+2024-01-08,Dinner,Appetizer,Omelette,38.53,3,Mobile,Bob
+2024-01-08,Dinner,Main Course,Soup,6.67,3,Mobile,Diana
+2024-01-08,Breakfast,Main Course,Burger,36.33,2,Mobile,Charlie
+2024-01-08,Dinner,Dessert,Cake,29.28,1,Card,Alice
+2024-01-08,Breakfast,Main Course,Pancakes,44.87,2,Card,Bob
+2024-01-08,Dinner,Dessert,Coffee,49.57,3,Mobile,Alice
+2024-01-09,Lunch,Beverage,Burger,8.15,2,Cash,Bob
+2024-01-09,Breakfast,Appetizer,Steak,26.59,3,Cash,Bob
+2024-01-09,Lunch,Appetizer,Soup,28.51,1,Card,Alice
+2024-01-09,Dinner,Appetizer,Cake,17.93,2,Card,Alice
+2024-01-09,Breakfast,Beverage,Pancakes,45.97,3,Cash,Charlie
+2024-01-09,Breakfast,Appetizer,Cake,10.6,3,Card,Alice
+2024-01-09,Breakfast,Appetizer,Juice,31.48,3,Mobile,Bob
+2024-01-09,Dinner,Main Course,Omelette,12.52,3,Cash,Charlie
+2024-01-09,Lunch,Appetizer,Burger,28.07,2,Mobile,Bob
+2024-01-09,Breakfast,Main Course,Ice Cream,13.39,3,Card,Alice
+2024-01-09,Breakfast,Main Course,Soup,44.77,3,Card,Alice
+2024-01-09,Breakfast,Dessert,Coffee,28.19,2,Card,Alice
+2024-01-09,Dinner,Beverage,Burger,15.1,1,Mobile,Alice
+2024-01-09,Breakfast,Beverage,Steak,9.12,1,Mobile,Charlie
+2024-01-09,Breakfast,Appetizer,Burger,48.0,2,Cash,Charlie
+2024-01-09,Breakfast,Appetizer,Juice,8.91,3,Card,Diana
+2024-01-09,Dinner,Appetizer,Coffee,28.97,1,Cash,Diana
+2024-01-09,Breakfast,Appetizer,Pancakes,7.77,1,Card,Alice
+2024-01-09,Dinner,Main Course,Burger,20.65,2,Mobile,Alice
+2024-01-09,Breakfast,Appetizer,Pasta,28.46,1,Mobile,Charlie
+2024-01-09,Breakfast,Appetizer,Juice,15.74,1,Card,Diana
+2024-01-09,Dinner,Dessert,Pasta,13.51,1,Mobile,Alice
+2024-01-09,Lunch,Appetizer,Burger,44.56,2,Card,Diana
+2024-01-09,Dinner,Appetizer,Soup,12.23,2,Card,Alice
+2024-01-09,Breakfast,Beverage,Soup,13.69,1,Card,Charlie
+2024-01-09,Breakfast,Appetizer,Pancakes,10.21,2,Cash,Charlie
+2024-01-09,Lunch,Dessert,Soup,29.36,2,Mobile,Diana
+2024-01-09,Dinner,Main Course,Steak,9.61,2,Mobile,Diana
+2024-01-09,Breakfast,Beverage,Pasta,36.89,2,Cash,Bob
+2024-01-09,Lunch,Beverage,Juice,43.36,2,Mobile,Alice
+2024-01-09,Dinner,Dessert,Salad,39.12,3,Cash,Charlie
+2024-01-09,Breakfast,Main Course,Burger,16.36,3,Card,Bob
+2024-01-10,Lunch,Appetizer,Salad,24.18,1,Cash,Charlie
+2024-01-10,Dinner,Dessert,Juice,14.93,2,Mobile,Bob
+2024-01-10,Lunch,Dessert,Juice,44.06,2,Cash,Alice
+2024-01-10,Dinner,Beverage,Steak,33.73,2,Mobile,Alice
+2024-01-10,Breakfast,Dessert,Juice,23.42,2,Mobile,Bob
+2024-01-10,Breakfast,Dessert,Pancakes,34.33,2,Mobile,Diana
+2024-01-10,Dinner,Beverage,Soda,13.35,1,Cash,Alice
+2024-01-10,Dinner,Dessert,Omelette,39.25,3,Cash,Diana
+2024-01-10,Breakfast,Beverage,Soda,48.54,2,Mobile,Alice
+2024-01-10,Lunch,Main Course,Soup,10.63,1,Card,Diana
+2024-01-10,Breakfast,Beverage,Pasta,31.19,1,Card,Diana
+2024-01-10,Dinner,Beverage,Pancakes,5.52,2,Card,Diana
+2024-01-10,Lunch,Main Course,Pasta,18.12,1,Cash,Alice
+2024-01-10,Lunch,Appetizer,Cake,37.59,3,Cash,Alice
+2024-01-10,Breakfast,Main Course,Pasta,32.82,1,Card,Diana
+2024-01-10,Lunch,Beverage,Pancakes,28.3,1,Cash,Alice
+2024-01-10,Lunch,Appetizer,Salad,21.1,3,Card,Bob
+2024-01-10,Dinner,Main Course,Coffee,41.03,2,Card,Charlie
+2024-01-10,Breakfast,Beverage,Juice,10.59,3,Card,Alice
+2024-01-10,Lunch,Appetizer,Soup,32.58,1,Card,Diana
+2024-01-10,Lunch,Beverage,Salad,20.28,3,Mobile,Charlie
+2024-01-10,Dinner,Beverage,Salad,31.89,2,Card,Charlie
+2024-01-10,Dinner,Dessert,Ice Cream,12.38,2,Mobile,Bob
+2024-01-10,Lunch,Beverage,Soup,34.26,1,Cash,Charlie
+2024-01-10,Lunch,Dessert,Soup,26.16,1,Cash,Charlie
+2024-01-10,Breakfast,Dessert,Burger,12.28,2,Card,Charlie
+2024-01-10,Lunch,Appetizer,Cake,48.87,3,Card,Charlie
+2024-01-10,Dinner,Appetizer,Pasta,6.38,1,Mobile,Diana
+2024-01-10,Breakfast,Main Course,Steak,37.72,1,Cash,Diana
+2024-01-10,Lunch,Beverage,Soda,6.8,1,Mobile,Diana
+2024-01-10,Breakfast,Beverage,Coffee,37.64,2,Mobile,Bob
+2024-01-10,Lunch,Dessert,Coffee,49.65,2,Card,Alice
+2024-01-10,Dinner,Appetizer,Omelette,33.42,3,Cash,Charlie
+2024-01-11,Lunch,Dessert,Coffee,15.69,2,Card,Charlie
+2024-01-11,Breakfast,Appetizer,Pasta,27.15,2,Card,Diana
+2024-01-11,Breakfast,Dessert,Cake,31.07,2,Mobile,Bob
+2024-01-11,Breakfast,Dessert,Ice Cream,48.62,2,Mobile,Alice
+2024-01-11,Breakfast,Dessert,Pancakes,39.81,1,Mobile,Charlie
+2024-01-11,Dinner,Dessert,Coffee,8.31,2,Card,Alice
+2024-01-11,Lunch,Beverage,Ice Cream,24.39,3,Cash,Alice
+2024-01-11,Lunch,Beverage,Soda,6.65,1,Mobile,Alice
+2024-01-11,Breakfast,Appetizer,Pancakes,36.74,3,Mobile,Bob
+2024-01-11,Dinner,Appetizer,Salad,17.14,2,Cash,Charlie
+2024-01-11,Breakfast,Beverage,Coffee,6.77,3,Mobile,Bob
+2024-01-11,Breakfast,Appetizer,Juice,19.23,1,Mobile,Bob
+2024-01-11,Lunch,Beverage,Steak,26.6,3,Mobile,Bob
+2024-01-11,Lunch,Appetizer,Omelette,48.79,3,Mobile,Diana
+2024-01-11,Dinner,Dessert,Omelette,20.42,2,Mobile,Diana
+2024-01-11,Lunch,Appetizer,Salad,36.71,2,Mobile,Diana
+2024-01-11,Lunch,Appetizer,Pancakes,37.89,1,Card,Alice
+2024-01-11,Dinner,Main Course,Omelette,34.77,3,Card,Charlie
+2024-01-11,Lunch,Main Course,Omelette,15.99,2,Mobile,Diana
+2024-01-11,Breakfast,Beverage,Juice,46.89,2,Cash,Alice
+2024-01-11,Dinner,Dessert,Steak,35.01,1,Card,Bob
+2024-01-11,Lunch,Main Course,Pasta,19.32,1,Cash,Alice
+2024-01-11,Breakfast,Appetizer,Steak,30.52,1,Mobile,Diana
+2024-01-11,Lunch,Appetizer,Pasta,19.72,2,Mobile,Bob
+2024-01-11,Lunch,Main Course,Ice Cream,19.27,1,Mobile,Alice
+2024-01-11,Lunch,Main Course,Soup,5.26,3,Cash,Diana
+2024-01-11,Lunch,Dessert,Steak,22.12,1,Cash,Alice
+2024-01-12,Breakfast,Dessert,Soda,5.66,3,Mobile,Diana
+2024-01-12,Lunch,Main Course,Coffee,39.17,1,Mobile,Alice
+2024-01-12,Lunch,Beverage,Omelette,26.56,1,Cash,Bob
+2024-01-12,Breakfast,Beverage,Steak,22.95,1,Mobile,Diana
+2024-01-12,Dinner,Dessert,Soup,41.58,2,Mobile,Charlie
+2024-01-12,Breakfast,Appetizer,Soup,24.39,3,Cash,Diana
+2024-01-12,Dinner,Appetizer,Salad,46.72,3,Cash,Alice
+2024-01-12,Lunch,Dessert,Omelette,12.48,1,Card,Charlie
+2024-01-12,Breakfast,Dessert,Soda,29.26,2,Card,Bob
+2024-01-12,Lunch,Appetizer,Salad,42.04,2,Mobile,Charlie
+2024-01-12,Dinner,Beverage,Coffee,40.99,3,Mobile,Charlie
+2024-01-12,Breakfast,Main Course,Coffee,46.3,2,Mobile,Bob
+2024-01-12,Breakfast,Beverage,Cake,28.69,3,Mobile,Alice
+2024-01-12,Dinner,Main Course,Pasta,28.18,1,Card,Alice
+2024-01-12,Dinner,Main Course,Cake,23.5,1,Card,Diana
+2024-01-12,Breakfast,Main Course,Juice,40.12,2,Mobile,Diana
+2024-01-12,Dinner,Main Course,Ice Cream,9.3,2,Cash,Charlie
+2024-01-12,Lunch,Appetizer,Pancakes,38.16,2,Cash,Charlie
+2024-01-12,Breakfast,Appetizer,Pasta,6.06,3,Mobile,Diana
+2024-01-12,Dinner,Beverage,Juice,15.44,2,Cash,Alice
+2024-01-12,Breakfast,Main Course,Ice Cream,49.45,3,Mobile,Alice
+2024-01-12,Lunch,Dessert,Coffee,24.27,3,Cash,Alice
+2024-01-12,Dinner,Dessert,Cake,10.78,3,Card,Bob
+2024-01-12,Lunch,Beverage,Soup,39.77,1,Cash,Diana
+2024-01-12,Dinner,Appetizer,Cake,21.51,2,Cash,Charlie
+2024-01-12,Breakfast,Appetizer,Soda,8.04,1,Mobile,Diana
+2024-01-12,Breakfast,Beverage,Pasta,31.68,3,Card,Diana
+2024-01-12,Breakfast,Main Course,Burger,13.56,2,Mobile,Diana
+2024-01-12,Lunch,Main Course,Pancakes,49.8,3,Card,Diana
+2024-01-12,Lunch,Beverage,Coffee,48.09,1,Cash,Charlie
+2024-01-12,Dinner,Appetizer,Soup,29.11,2,Card,Alice
+2024-01-12,Dinner,Beverage,Soda,20.64,3,Card,Alice
+2024-01-12,Dinner,Beverage,Burger,11.86,1,Cash,Alice
+2024-01-12,Lunch,Appetizer,Salad,33.06,2,Mobile,Diana
+2024-01-12,Breakfast,Appetizer,Soda,40.19,2,Cash,Bob
+2024-01-12,Breakfast,Dessert,Omelette,20.38,1,Cash,Bob
+2024-01-13,Breakfast,Dessert,Burger,22.86,3,Card,Diana
+2024-01-13,Lunch,Dessert,Pasta,46.37,3,Mobile,Bob
+2024-01-13,Breakfast,Beverage,Coffee,27.55,1,Card,Bob
+2024-01-13,Lunch,Appetizer,Burger,35.34,2,Card,Bob
+2024-01-13,Lunch,Dessert,Soup,18.71,1,Mobile,Alice
+2024-01-13,Dinner,Main Course,Juice,36.27,2,Card,Diana
+2024-01-13,Lunch,Beverage,Coffee,42.01,1,Cash,Bob
+2024-01-13,Breakfast,Beverage,Pancakes,32.28,2,Card,Alice
+2024-01-13,Dinner,Dessert,Ice Cream,42.13,1,Cash,Bob
+2024-01-13,Breakfast,Main Course,Salad,11.08,1,Cash,Charlie
+2024-01-13,Lunch,Beverage,Omelette,17.5,3,Card,Diana
+2024-01-13,Breakfast,Dessert,Omelette,34.26,3,Mobile,Charlie
+2024-01-13,Breakfast,Dessert,Omelette,25.69,2,Card,Charlie
+2024-01-13,Lunch,Appetizer,Cake,18.38,3,Mobile,Alice
+2024-01-13,Dinner,Appetizer,Ice Cream,40.22,2,Mobile,Charlie
+2024-01-13,Breakfast,Beverage,Salad,49.85,1,Cash,Charlie
+2024-01-13,Breakfast,Beverage,Salad,28.72,3,Card,Charlie
+2024-01-13,Breakfast,Beverage,Burger,21.55,2,Card,Charlie
+2024-01-13,Breakfast,Appetizer,Pasta,48.37,3,Card,Bob
+2024-01-13,Dinner,Appetizer,Pasta,40.57,1,Card,Charlie
+2024-01-13,Lunch,Beverage,Soup,32.85,1,Cash,Bob
+2024-01-13,Lunch,Appetizer,Steak,13.95,1,Cash,Diana
+2024-01-13,Breakfast,Dessert,Pancakes,29.66,3,Cash,Diana
+2024-01-13,Dinner,Appetizer,Coffee,10.72,2,Card,Diana
+2024-01-13,Dinner,Appetizer,Salad,43.68,2,Cash,Bob
+2024-01-13,Breakfast,Appetizer,Ice Cream,9.6,1,Cash,Alice
+2024-01-13,Lunch,Beverage,Pancakes,42.84,2,Cash,Diana
+2024-01-13,Dinner,Dessert,Omelette,22.39,2,Cash,Charlie
+2024-01-14,Dinner,Beverage,Burger,9.76,1,Mobile,Alice
+2024-01-14,Breakfast,Beverage,Ice Cream,38.58,1,Cash,Charlie
+2024-01-14,Dinner,Beverage,Pancakes,48.04,1,Card,Charlie
+2024-01-14,Lunch,Beverage,Juice,48.68,3,Mobile,Charlie
+2024-01-14,Dinner,Dessert,Coffee,9.43,2,Card,Diana
+2024-01-14,Lunch,Main Course,Soda,45.45,1,Cash,Bob
+2024-01-14,Dinner,Main Course,Burger,10.46,2,Card,Alice
+2024-01-14,Breakfast,Appetizer,Coffee,26.52,3,Card,Bob
+2024-01-14,Breakfast,Beverage,Soda,26.35,2,Card,Alice
+2024-01-14,Breakfast,Beverage,Soda,12.05,2,Mobile,Alice
+2024-01-14,Lunch,Dessert,Ice Cream,21.75,3,Card,Diana
+2024-01-14,Lunch,Appetizer,Omelette,47.44,2,Cash,Diana
+2024-01-14,Dinner,Main Course,Pancakes,34.06,3,Card,Diana
+2024-01-14,Lunch,Dessert,Soup,43.09,1,Mobile,Bob
+2024-01-14,Breakfast,Appetizer,Steak,49.03,2,Card,Charlie
+2024-01-14,Dinner,Beverage,Juice,19.4,2,Mobile,Alice
+2024-01-14,Lunch,Beverage,Omelette,9.86,1,Mobile,Diana
+2024-01-14,Dinner,Main Course,Burger,11.78,1,Card,Charlie
+2024-01-14,Breakfast,Appetizer,Pancakes,27.88,3,Card,Charlie
+2024-01-14,Dinner,Appetizer,Soup,30.97,1,Cash,Charlie
+2024-01-14,Lunch,Main Course,Cake,16.1,1,Mobile,Alice
+2024-01-14,Dinner,Beverage,Coffee,34.59,1,Card,Alice
+2024-01-14,Lunch,Dessert,Juice,13.46,1,Cash,Alice
+2024-01-14,Lunch,Main Course,Coffee,42.8,1,Card,Bob
+2024-01-14,Breakfast,Main Course,Steak,21.56,3,Mobile,Charlie
+2024-01-14,Dinner,Main Course,Cake,27.59,2,Mobile,Alice
+2024-01-14,Lunch,Beverage,Pasta,31.69,1,Card,Alice
+2024-01-14,Lunch,Beverage,Soup,5.14,2,Card,Diana
+2024-01-14,Breakfast,Appetizer,Salad,23.1,3,Cash,Bob
+2024-01-14,Dinner,Beverage,Steak,31.1,3,Card,Diana
+2024-01-14,Lunch,Main Course,Omelette,32.1,3,Cash,Charlie
+2024-01-14,Lunch,Dessert,Pasta,36.29,2,Card,Bob
+2024-01-14,Breakfast,Dessert,Salad,28.28,1,Card,Charlie
+2024-01-14,Breakfast,Dessert,Pancakes,8.99,1,Mobile,Diana
+2024-01-14,Dinner,Dessert,Juice,38.01,2,Cash,Alice
+2024-01-14,Breakfast,Main Course,Salad,27.33,3,Mobile,Charlie
+2024-01-15,Dinner,Main Course,Soda,22.27,1,Card,Diana
+2024-01-15,Breakfast,Appetizer,Salad,21.3,2,Mobile,Alice
+2024-01-15,Dinner,Appetizer,Pasta,17.29,1,Mobile,Alice
+2024-01-15,Dinner,Appetizer,Burger,16.67,2,Card,Charlie
+2024-01-15,Breakfast,Appetizer,Steak,26.64,1,Card,Diana
+2024-01-15,Breakfast,Beverage,Pasta,33.4,2,Mobile,Charlie
+2024-01-15,Lunch,Dessert,Pancakes,40.11,2,Cash,Bob
+2024-01-15,Lunch,Beverage,Soda,11.09,3,Cash,Diana
+2024-01-15,Breakfast,Main Course,Cake,7.57,2,Card,Diana
+2024-01-15,Dinner,Dessert,Soup,45.78,2,Card,Charlie
+2024-01-15,Lunch,Appetizer,Pasta,7.94,1,Mobile,Diana
+2024-01-15,Lunch,Main Course,Juice,11.27,2,Cash,Charlie
+2024-01-15,Dinner,Main Course,Omelette,37.96,3,Mobile,Diana
+2024-01-15,Dinner,Appetizer,Coffee,42.25,2,Cash,Alice
+2024-01-15,Lunch,Appetizer,Omelette,11.52,3,Card,Alice
+2024-01-15,Breakfast,Dessert,Burger,48.74,1,Cash,Alice
+2024-01-15,Breakfast,Main Course,Steak,15.14,2,Cash,Charlie
+2024-01-15,Lunch,Dessert,Pancakes,28.55,1,Cash,Bob
+2024-01-15,Lunch,Dessert,Ice Cream,40.63,1,Cash,Bob
+2024-01-15,Lunch,Main Course,Pasta,43.11,2,Cash,Alice
+2024-01-15,Lunch,Main Course,Ice Cream,35.11,2,Mobile,Alice
+2024-01-15,Dinner,Main Course,Soda,7.8,2,Mobile,Bob
+2024-01-15,Dinner,Beverage,Burger,40.38,3,Cash,Diana
+2024-01-15,Lunch,Dessert,Salad,39.05,2,Mobile,Diana
+2024-01-15,Breakfast,Dessert,Pasta,12.27,2,Mobile,Alice
+2024-01-16,Lunch,Beverage,Coffee,30.11,2,Cash,Diana
+2024-01-16,Lunch,Dessert,Cake,17.71,2,Mobile,Bob
+2024-01-16,Dinner,Beverage,Soup,41.99,2,Mobile,Charlie
+2024-01-16,Breakfast,Dessert,Juice,14.17,2,Cash,Diana
+2024-01-16,Breakfast,Appetizer,Cake,40.91,3,Mobile,Diana
+2024-01-16,Lunch,Beverage,Omelette,12.11,2,Card,Charlie
+2024-01-16,Dinner,Appetizer,Burger,45.37,3,Card,Alice
+2024-01-16,Breakfast,Dessert,Cake,45.23,3,Cash,Diana
+2024-01-16,Lunch,Main Course,Pasta,43.56,1,Mobile,Bob
+2024-01-16,Dinner,Beverage,Pancakes,23.8,3,Cash,Alice
+2024-01-16,Lunch,Appetizer,Omelette,12.47,2,Card,Charlie
+2024-01-16,Dinner,Dessert,Juice,35.91,3,Cash,Diana
+2024-01-16,Breakfast,Beverage,Omelette,14.44,2,Cash,Charlie
+2024-01-16,Breakfast,Beverage,Ice Cream,41.86,2,Card,Charlie
+2024-01-16,Breakfast,Dessert,Omelette,41.97,1,Cash,Diana
+2024-01-16,Lunch,Main Course,Burger,44.59,2,Card,Diana
+2024-01-16,Breakfast,Beverage,Cake,8.92,1,Cash,Charlie
+2024-01-16,Lunch,Appetizer,Burger,25.27,2,Mobile,Alice
+2024-01-16,Dinner,Beverage,Pasta,38.21,3,Card,Charlie
+2024-01-16,Dinner,Dessert,Pancakes,10.68,2,Card,Charlie
+2024-01-16,Dinner,Dessert,Pasta,43.51,1,Mobile,Charlie
+2024-01-16,Dinner,Dessert,Salad,43.99,3,Card,Charlie
+2024-01-16,Dinner,Appetizer,Burger,39.34,1,Card,Diana
+2024-01-16,Lunch,Beverage,Soda,15.47,1,Mobile,Diana
+2024-01-16,Breakfast,Dessert,Omelette,34.28,2,Mobile,Charlie
+2024-01-16,Dinner,Dessert,Juice,22.54,2,Card,Bob
+2024-01-16,Breakfast,Beverage,Burger,23.57,3,Card,Charlie
+2024-01-16,Breakfast,Appetizer,Cake,38.3,2,Card,Charlie
+2024-01-17,Breakfast,Dessert,Burger,42.17,3,Cash,Diana
+2024-01-17,Breakfast,Dessert,Ice Cream,18.71,3,Cash,Diana
+2024-01-17,Dinner,Dessert,Salad,10.07,2,Cash,Alice
+2024-01-17,Breakfast,Main Course,Ice Cream,5.56,1,Card,Charlie
+2024-01-17,Breakfast,Dessert,Ice Cream,18.5,2,Cash,Diana
+2024-01-17,Dinner,Beverage,Soda,43.35,1,Cash,Bob
+2024-01-17,Lunch,Appetizer,Cake,13.34,3,Cash,Bob
+2024-01-17,Breakfast,Beverage,Soda,31.23,2,Card,Alice
+2024-01-17,Dinner,Appetizer,Steak,16.35,1,Mobile,Diana
+2024-01-17,Breakfast,Appetizer,Ice Cream,45.93,3,Cash,Bob
+2024-01-17,Breakfast,Beverage,Soup,24.37,2,Card,Charlie
+2024-01-17,Dinner,Appetizer,Burger,45.16,1,Card,Diana
+2024-01-17,Breakfast,Dessert,Pasta,31.63,1,Mobile,Diana
+2024-01-17,Dinner,Dessert,Soda,9.69,2,Cash,Charlie
+2024-01-17,Lunch,Beverage,Omelette,17.22,3,Mobile,Alice
+2024-01-17,Breakfast,Beverage,Soup,23.31,2,Cash,Bob
+2024-01-17,Breakfast,Appetizer,Soda,32.18,3,Mobile,Diana
+2024-01-17,Lunch,Appetizer,Ice Cream,19.91,1,Mobile,Diana
+2024-01-17,Lunch,Dessert,Salad,14.31,1,Cash,Bob
+2024-01-17,Breakfast,Main Course,Pancakes,14.86,3,Cash,Bob
+2024-01-17,Dinner,Appetizer,Steak,30.74,2,Card,Charlie
+2024-01-17,Lunch,Main Course,Ice Cream,22.87,1,Cash,Alice
+2024-01-17,Breakfast,Beverage,Steak,20.54,3,Mobile,Alice
+2024-01-17,Dinner,Appetizer,Juice,7.02,3,Cash,Charlie
+2024-01-17,Lunch,Appetizer,Pancakes,22.54,3,Cash,Alice
+2024-01-17,Breakfast,Beverage,Pancakes,42.07,3,Card,Alice
+2024-01-17,Breakfast,Dessert,Soup,37.29,3,Mobile,Alice
+2024-01-17,Dinner,Beverage,Omelette,16.55,2,Cash,Charlie
+2024-01-17,Lunch,Appetizer,Burger,31.83,1,Cash,Diana
+2024-01-17,Lunch,Dessert,Ice Cream,47.38,3,Cash,Alice
+2024-01-17,Lunch,Main Course,Burger,31.71,2,Card,Bob
+2024-01-17,Dinner,Main Course,Ice Cream,32.57,3,Card,Charlie
+2024-01-17,Breakfast,Main Course,Pasta,42.31,2,Card,Alice
+2024-01-17,Breakfast,Main Course,Soda,18.28,1,Mobile,Alice
+2024-01-17,Dinner,Main Course,Steak,10.54,1,Mobile,Charlie
+2024-01-18,Breakfast,Main Course,Juice,24.35,3,Cash,Charlie
+2024-01-18,Breakfast,Appetizer,Pasta,40.5,2,Mobile,Charlie
+2024-01-18,Dinner,Appetizer,Soup,19.35,2,Mobile,Alice
+2024-01-18,Lunch,Beverage,Soda,35.98,3,Card,Diana
+2024-01-18,Breakfast,Dessert,Salad,7.02,1,Cash,Charlie
+2024-01-18,Dinner,Appetizer,Coffee,34.06,3,Mobile,Charlie
+2024-01-18,Dinner,Dessert,Juice,19.0,2,Cash,Diana
+2024-01-18,Lunch,Beverage,Salad,31.11,2,Cash,Charlie
+2024-01-18,Breakfast,Appetizer,Omelette,26.85,3,Mobile,Charlie
+2024-01-18,Breakfast,Beverage,Coffee,6.75,2,Mobile,Diana
+2024-01-18,Dinner,Main Course,Burger,6.05,3,Cash,Charlie
+2024-01-18,Breakfast,Main Course,Coffee,45.5,1,Cash,Bob
+2024-01-18,Breakfast,Dessert,Soup,24.99,2,Cash,Alice
+2024-01-18,Breakfast,Appetizer,Juice,48.25,1,Cash,Diana
+2024-01-18,Lunch,Beverage,Steak,11.94,1,Cash,Bob
+2024-01-18,Breakfast,Main Course,Steak,42.51,3,Mobile,Bob
+2024-01-18,Lunch,Beverage,Burger,12.97,1,Card,Charlie
+2024-01-18,Breakfast,Beverage,Juice,30.1,3,Cash,Diana
+2024-01-18,Dinner,Beverage,Burger,11.77,2,Mobile,Diana
+2024-01-18,Dinner,Appetizer,Pancakes,38.06,2,Card,Alice
+2024-01-18,Lunch,Dessert,Steak,37.89,1,Cash,Alice
+2024-01-18,Lunch,Dessert,Juice,45.93,3,Card,Alice
+2024-01-18,Dinner,Beverage,Pasta,10.88,3,Mobile,Diana
+2024-01-18,Breakfast,Appetizer,Cake,17.41,2,Card,Diana
+2024-01-18,Lunch,Appetizer,Burger,25.82,2,Mobile,Charlie
+2024-01-19,Lunch,Dessert,Pancakes,30.32,3,Mobile,Charlie
+2024-01-19,Dinner,Beverage,Ice Cream,21.3,1,Mobile,Alice
+2024-01-19,Lunch,Dessert,Omelette,24.96,3,Mobile,Charlie
+2024-01-19,Dinner,Appetizer,Burger,14.02,1,Cash,Alice
+2024-01-19,Breakfast,Appetizer,Pancakes,45.19,3,Mobile,Bob
+2024-01-19,Dinner,Dessert,Steak,27.97,2,Cash,Charlie
+2024-01-19,Dinner,Beverage,Omelette,26.46,1,Card,Charlie
+2024-01-19,Dinner,Main Course,Coffee,11.05,2,Cash,Diana
+2024-01-19,Lunch,Appetizer,Cake,37.99,2,Cash,Bob
+2024-01-19,Dinner,Dessert,Burger,14.03,2,Cash,Diana
+2024-01-19,Dinner,Main Course,Soup,6.99,1,Cash,Alice
+2024-01-19,Dinner,Appetizer,Cake,47.17,1,Mobile,Alice
+2024-01-19,Dinner,Main Course,Cake,22.96,2,Card,Bob
+2024-01-19,Lunch,Dessert,Pasta,18.78,3,Card,Diana
+2024-01-19,Breakfast,Appetizer,Omelette,5.27,3,Mobile,Bob
+2024-01-19,Lunch,Beverage,Pancakes,27.53,2,Card,Diana
+2024-01-19,Lunch,Main Course,Coffee,23.13,3,Mobile,Diana
+2024-01-19,Lunch,Dessert,Burger,41.16,2,Card,Charlie
+2024-01-19,Dinner,Main Course,Soup,26.44,1,Cash,Alice
+2024-01-19,Lunch,Appetizer,Steak,14.66,3,Cash,Alice
+2024-01-19,Lunch,Dessert,Pancakes,37.39,2,Card,Bob
+2024-01-19,Lunch,Beverage,Salad,35.72,2,Card,Diana
+2024-01-19,Lunch,Beverage,Steak,41.18,2,Card,Charlie
+2024-01-20,Breakfast,Dessert,Soup,37.43,3,Mobile,Bob
+2024-01-20,Lunch,Main Course,Cake,33.33,3,Cash,Diana
+2024-01-20,Breakfast,Dessert,Ice Cream,5.01,2,Cash,Bob
+2024-01-20,Lunch,Beverage,Pasta,36.81,3,Card,Diana
+2024-01-20,Breakfast,Main Course,Steak,47.32,1,Mobile,Alice
+2024-01-20,Breakfast,Dessert,Burger,30.42,2,Card,Charlie
+2024-01-20,Dinner,Appetizer,Burger,45.95,3,Cash,Alice
+2024-01-20,Lunch,Dessert,Coffee,30.41,3,Cash,Diana
+2024-01-20,Dinner,Main Course,Soup,16.44,3,Cash,Alice
+2024-01-20,Breakfast,Beverage,Soda,10.83,3,Cash,Bob
+2024-01-20,Breakfast,Appetizer,Salad,40.18,1,Card,Alice
+2024-01-20,Breakfast,Main Course,Soup,27.52,1,Mobile,Charlie
+2024-01-20,Lunch,Beverage,Burger,21.64,3,Cash,Alice
+2024-01-20,Lunch,Appetizer,Salad,43.27,1,Cash,Bob
+2024-01-20,Dinner,Main Course,Cake,34.15,1,Mobile,Alice
+2024-01-20,Breakfast,Main Course,Ice Cream,11.15,3,Card,Charlie
+2024-01-20,Lunch,Beverage,Soda,22.78,2,Card,Alice
+2024-01-20,Breakfast,Beverage,Juice,21.55,1,Cash,Bob
+2024-01-20,Lunch,Main Course,Steak,17.04,1,Card,Bob
+2024-01-20,Breakfast,Appetizer,Pasta,20.18,2,Cash,Diana
+2024-01-20,Lunch,Main Course,Burger,27.18,3,Card,Alice
+2024-01-20,Lunch,Beverage,Cake,37.62,1,Card,Diana
+2024-01-20,Lunch,Main Course,Pancakes,19.03,3,Cash,Diana
+2024-01-21,Dinner,Main Course,Steak,8.44,3,Card,Alice
+2024-01-21,Lunch,Appetizer,Pasta,24.6,1,Cash,Alice
+2024-01-21,Dinner,Main Course,Soup,20.66,2,Mobile,Alice
+2024-01-21,Breakfast,Dessert,Salad,43.12,1,Mobile,Diana
+2024-01-21,Breakfast,Dessert,Ice Cream,18.1,1,Card,Charlie
+2024-01-21,Dinner,Appetizer,Ice Cream,47.18,2,Cash,Charlie
+2024-01-21,Dinner,Beverage,Coffee,31.2,1,Mobile,Alice
+2024-01-21,Lunch,Dessert,Soda,39.96,1,Mobile,Bob
+2024-01-21,Dinner,Main Course,Ice Cream,33.01,2,Mobile,Alice
+2024-01-21,Dinner,Dessert,Steak,28.73,3,Mobile,Diana
+2024-01-21,Dinner,Dessert,Pancakes,20.53,2,Card,Diana
+2024-01-21,Breakfast,Dessert,Ice Cream,36.05,2,Cash,Bob
+2024-01-21,Breakfast,Beverage,Salad,15.36,2,Cash,Bob
+2024-01-21,Lunch,Dessert,Omelette,15.89,1,Card,Alice
+2024-01-21,Lunch,Appetizer,Pasta,17.36,2,Card,Bob
+2024-01-21,Lunch,Main Course,Burger,12.46,1,Cash,Charlie
+2024-01-21,Breakfast,Appetizer,Juice,40.69,3,Mobile,Diana
+2024-01-21,Lunch,Appetizer,Salad,47.81,3,Card,Bob
+2024-01-21,Breakfast,Beverage,Juice,25.65,2,Mobile,Charlie
+2024-01-21,Dinner,Main Course,Pasta,5.59,2,Mobile,Alice
+2024-01-21,Dinner,Appetizer,Omelette,36.42,3,Cash,Diana
+2024-01-21,Lunch,Main Course,Soup,22.68,2,Card,Diana
+2024-01-21,Dinner,Main Course,Pancakes,25.62,1,Mobile,Diana
+2024-01-21,Lunch,Main Course,Pasta,32.14,1,Card,Diana
+2024-01-21,Breakfast,Beverage,Soda,15.29,3,Cash,Diana
+2024-01-21,Lunch,Beverage,Cake,43.16,3,Card,Alice
+2024-01-21,Dinner,Appetizer,Burger,45.26,1,Card,Diana
+2024-01-21,Breakfast,Main Course,Cake,49.55,2,Mobile,Alice
+2024-01-21,Breakfast,Appetizer,Soup,21.73,1,Card,Charlie
+2024-01-21,Dinner,Appetizer,Soup,30.97,2,Cash,Bob
+2024-01-21,Breakfast,Beverage,Salad,30.82,2,Cash,Bob
+2024-01-22,Lunch,Main Course,Salad,9.58,2,Mobile,Charlie
+2024-01-22,Breakfast,Appetizer,Steak,6.62,1,Card,Bob
+2024-01-22,Breakfast,Appetizer,Salad,31.17,3,Mobile,Alice
+2024-01-22,Dinner,Beverage,Coffee,42.78,1,Mobile,Charlie
+2024-01-22,Dinner,Dessert,Coffee,45.17,1,Card,Diana
+2024-01-22,Dinner,Main Course,Salad,27.39,1,Cash,Diana
+2024-01-22,Breakfast,Beverage,Burger,31.72,2,Card,Alice
+2024-01-22,Dinner,Beverage,Coffee,47.34,1,Cash,Charlie
+2024-01-22,Dinner,Beverage,Juice,42.61,1,Card,Alice
+2024-01-22,Lunch,Beverage,Burger,28.2,1,Mobile,Alice
+2024-01-22,Dinner,Appetizer,Steak,22.63,1,Card,Alice
+2024-01-22,Breakfast,Appetizer,Ice Cream,7.76,2,Cash,Alice
+2024-01-22,Lunch,Beverage,Soup,14.16,1,Cash,Diana
+2024-01-22,Dinner,Beverage,Burger,7.34,2,Mobile,Charlie
+2024-01-22,Dinner,Appetizer,Steak,39.16,2,Card,Bob
+2024-01-22,Lunch,Appetizer,Ice Cream,16.38,3,Card,Alice
+2024-01-22,Lunch,Beverage,Juice,49.98,3,Card,Alice
+2024-01-22,Lunch,Appetizer,Cake,34.75,3,Mobile,Charlie
+2024-01-22,Lunch,Main Course,Juice,17.11,2,Cash,Alice
+2024-01-22,Dinner,Beverage,Coffee,26.68,1,Mobile,Alice
+2024-01-23,Lunch,Appetizer,Pancakes,36.88,3,Cash,Alice
+2024-01-23,Dinner,Beverage,Omelette,36.37,3,Mobile,Bob
+2024-01-23,Breakfast,Dessert,Soup,10.63,1,Card,Alice
+2024-01-23,Breakfast,Main Course,Juice,7.34,1,Cash,Bob
+2024-01-23,Lunch,Beverage,Salad,12.08,1,Mobile,Alice
+2024-01-23,Dinner,Appetizer,Soup,29.72,1,Mobile,Bob
+2024-01-23,Dinner,Beverage,Salad,22.3,3,Mobile,Diana
+2024-01-23,Dinner,Beverage,Coffee,32.72,2,Cash,Charlie
+2024-01-23,Dinner,Appetizer,Burger,36.78,1,Cash,Diana
+2024-01-23,Dinner,Appetizer,Pancakes,18.9,2,Cash,Diana
+2024-01-23,Lunch,Dessert,Burger,22.84,3,Mobile,Bob
+2024-01-23,Breakfast,Beverage,Salad,33.13,2,Card,Charlie
+2024-01-23,Breakfast,Appetizer,Cake,16.27,3,Mobile,Bob
+2024-01-23,Dinner,Dessert,Burger,5.55,1,Cash,Diana
+2024-01-23,Lunch,Appetizer,Juice,13.61,1,Card,Alice
+2024-01-23,Breakfast,Appetizer,Soda,23.2,2,Mobile,Alice
+2024-01-23,Lunch,Main Course,Ice Cream,35.84,1,Mobile,Bob
+2024-01-23,Lunch,Dessert,Soup,47.5,1,Card,Charlie
+2024-01-23,Dinner,Dessert,Soup,23.83,2,Cash,Diana
+2024-01-23,Breakfast,Beverage,Omelette,47.36,1,Cash,Diana
+2024-01-23,Lunch,Main Course,Coffee,13.07,2,Card,Alice
+2024-01-23,Lunch,Appetizer,Steak,13.54,1,Cash,Charlie
+2024-01-23,Breakfast,Beverage,Soup,16.89,2,Card,Alice
+2024-01-23,Dinner,Beverage,Omelette,17.94,2,Card,Bob
+2024-01-24,Dinner,Dessert,Juice,8.4,2,Mobile,Alice
+2024-01-24,Lunch,Beverage,Soda,25.61,3,Mobile,Bob
+2024-01-24,Lunch,Appetizer,Omelette,36.67,2,Mobile,Charlie
+2024-01-24,Lunch,Appetizer,Pancakes,35.24,2,Cash,Charlie
+2024-01-24,Dinner,Beverage,Omelette,43.97,1,Mobile,Bob
+2024-01-24,Breakfast,Main Course,Steak,47.51,2,Mobile,Diana
+2024-01-24,Breakfast,Dessert,Cake,31.44,2,Card,Alice
+2024-01-24,Breakfast,Beverage,Pancakes,5.69,3,Cash,Alice
+2024-01-24,Dinner,Appetizer,Coffee,22.96,1,Card,Bob
+2024-01-24,Lunch,Beverage,Pasta,9.59,2,Mobile,Bob
+2024-01-24,Lunch,Dessert,Salad,38.68,3,Cash,Diana
+2024-01-24,Dinner,Dessert,Salad,24.55,1,Mobile,Bob
+2024-01-24,Dinner,Beverage,Soda,32.6,1,Cash,Bob
+2024-01-24,Lunch,Beverage,Cake,34.43,1,Mobile,Charlie
+2024-01-24,Dinner,Beverage,Pancakes,14.65,1,Mobile,Diana
+2024-01-24,Lunch,Beverage,Juice,25.65,3,Card,Bob
+2024-01-24,Breakfast,Dessert,Omelette,21.75,3,Card,Bob
+2024-01-24,Lunch,Dessert,Burger,27.21,3,Cash,Diana
+2024-01-24,Lunch,Dessert,Coffee,28.11,3,Mobile,Bob
+2024-01-24,Dinner,Main Course,Coffee,24.24,1,Card,Charlie
+2024-01-24,Breakfast,Dessert,Pancakes,43.93,1,Card,Alice
+2024-01-24,Breakfast,Main Course,Cake,40.43,2,Cash,Bob
+2024-01-24,Dinner,Dessert,Soda,42.51,2,Mobile,Alice
+2024-01-24,Dinner,Beverage,Omelette,42.11,2,Mobile,Bob
+2024-01-24,Breakfast,Appetizer,Salad,31.56,3,Cash,Charlie
+2024-01-24,Lunch,Beverage,Salad,14.45,1,Mobile,Charlie
+2024-01-24,Lunch,Main Course,Omelette,23.39,2,Card,Alice
+2024-01-24,Breakfast,Appetizer,Pancakes,13.35,1,Card,Charlie
+2024-01-24,Dinner,Appetizer,Salad,25.08,1,Cash,Diana
+2024-01-24,Dinner,Beverage,Coffee,29.1,1,Cash,Charlie
+2024-01-25,Breakfast,Appetizer,Soup,14.72,3,Cash,Diana
+2024-01-25,Lunch,Main Course,Pancakes,27.75,3,Cash,Alice
+2024-01-25,Breakfast,Appetizer,Ice Cream,8.49,1,Mobile,Charlie
+2024-01-25,Lunch,Appetizer,Pasta,40.75,3,Cash,Diana
+2024-01-25,Dinner,Beverage,Burger,23.65,3,Card,Alice
+2024-01-25,Breakfast,Dessert,Steak,23.5,2,Mobile,Diana
+2024-01-25,Dinner,Appetizer,Pancakes,38.33,1,Card,Alice
+2024-01-25,Lunch,Beverage,Omelette,18.36,2,Cash,Bob
+2024-01-25,Breakfast,Main Course,Juice,37.96,3,Card,Bob
+2024-01-25,Lunch,Dessert,Soda,31.2,2,Cash,Bob
+2024-01-25,Dinner,Main Course,Soup,7.6,2,Mobile,Charlie
+2024-01-25,Lunch,Dessert,Soda,30.74,3,Cash,Alice
+2024-01-25,Dinner,Appetizer,Pancakes,29.34,2,Mobile,Bob
+2024-01-25,Breakfast,Appetizer,Omelette,19.74,1,Card,Alice
+2024-01-25,Lunch,Appetizer,Pancakes,27.31,1,Cash,Charlie
+2024-01-25,Lunch,Appetizer,Soup,10.14,2,Cash,Charlie
+2024-01-25,Dinner,Main Course,Pancakes,47.81,1,Cash,Bob
+2024-01-25,Breakfast,Dessert,Ice Cream,35.3,3,Mobile,Alice
+2024-01-25,Breakfast,Dessert,Coffee,16.4,1,Card,Diana
+2024-01-25,Breakfast,Beverage,Cake,42.63,1,Card,Diana
+2024-01-25,Breakfast,Dessert,Soda,20.01,1,Mobile,Bob
+2024-01-25,Breakfast,Dessert,Burger,43.47,1,Mobile,Charlie
+2024-01-25,Dinner,Appetizer,Ice Cream,41.16,3,Card,Diana
+2024-01-25,Lunch,Main Course,Soda,13.18,3,Cash,Alice
+2024-01-25,Breakfast,Main Course,Omelette,28.1,2,Mobile,Diana
+2024-01-25,Breakfast,Dessert,Coffee,19.45,3,Mobile,Bob
+2024-01-25,Lunch,Beverage,Cake,8.09,2,Mobile,Diana
+2024-01-25,Dinner,Main Course,Juice,46.82,2,Mobile,Bob
+2024-01-25,Lunch,Beverage,Pancakes,21.8,3,Card,Alice
+2024-01-25,Dinner,Beverage,Ice Cream,31.15,1,Card,Bob
+2024-01-25,Breakfast,Beverage,Soup,35.49,1,Mobile,Alice
+2024-01-25,Dinner,Beverage,Soda,38.4,3,Cash,Charlie
+2024-01-25,Lunch,Appetizer,Coffee,45.87,3,Mobile,Charlie
+2024-01-25,Breakfast,Beverage,Coffee,45.01,1,Cash,Bob
+2024-01-25,Lunch,Main Course,Soda,26.33,1,Mobile,Bob
+2024-01-25,Dinner,Appetizer,Cake,31.99,2,Card,Bob
+2024-01-25,Lunch,Beverage,Juice,13.46,1,Card,Bob
+2024-01-25,Lunch,Beverage,Burger,41.98,2,Card,Diana
+2024-01-25,Breakfast,Beverage,Pasta,29.0,3,Card,Charlie
+2024-01-26,Lunch,Appetizer,Soda,25.84,2,Cash,Charlie
+2024-01-26,Dinner,Main Course,Coffee,34.79,3,Mobile,Diana
+2024-01-26,Dinner,Dessert,Pasta,40.4,2,Cash,Diana
+2024-01-26,Breakfast,Beverage,Cake,6.4,3,Card,Bob
+2024-01-26,Breakfast,Appetizer,Burger,42.09,2,Card,Diana
+2024-01-26,Lunch,Appetizer,Cake,14.05,3,Cash,Charlie
+2024-01-26,Breakfast,Main Course,Omelette,43.02,3,Cash,Bob
+2024-01-26,Breakfast,Beverage,Pasta,9.27,3,Cash,Charlie
+2024-01-26,Dinner,Beverage,Coffee,5.26,3,Mobile,Charlie
+2024-01-26,Dinner,Beverage,Pancakes,48.25,3,Mobile,Alice
+2024-01-26,Dinner,Main Course,Juice,5.62,1,Mobile,Bob
+2024-01-26,Lunch,Dessert,Cake,33.07,3,Mobile,Diana
+2024-01-26,Dinner,Main Course,Burger,47.23,1,Cash,Alice
+2024-01-26,Lunch,Dessert,Ice Cream,8.12,1,Mobile,Charlie
+2024-01-26,Dinner,Main Course,Coffee,11.23,1,Mobile,Charlie
+2024-01-26,Dinner,Main Course,Omelette,20.39,1,Mobile,Charlie
+2024-01-26,Breakfast,Dessert,Steak,49.15,2,Cash,Bob
+2024-01-26,Lunch,Appetizer,Juice,47.71,1,Card,Charlie
+2024-01-26,Dinner,Main Course,Omelette,9.95,3,Cash,Diana
+2024-01-26,Breakfast,Dessert,Ice Cream,33.99,1,Cash,Bob
+2024-01-27,Lunch,Dessert,Pancakes,33.62,1,Mobile,Diana
+2024-01-27,Lunch,Main Course,Omelette,35.05,1,Card,Bob
+2024-01-27,Lunch,Beverage,Omelette,40.06,3,Mobile,Charlie
+2024-01-27,Dinner,Beverage,Cake,41.13,2,Card,Charlie
+2024-01-27,Lunch,Main Course,Omelette,30.77,2,Card,Diana
+2024-01-27,Lunch,Main Course,Juice,31.68,3,Card,Diana
+2024-01-27,Breakfast,Beverage,Coffee,8.81,3,Card,Bob
+2024-01-27,Dinner,Dessert,Juice,44.87,3,Cash,Charlie
+2024-01-27,Dinner,Appetizer,Burger,14.02,1,Card,Alice
+2024-01-27,Dinner,Dessert,Soup,32.85,3,Mobile,Alice
+2024-01-27,Lunch,Main Course,Salad,20.64,1,Mobile,Diana
+2024-01-27,Breakfast,Appetizer,Coffee,47.21,3,Card,Charlie
+2024-01-27,Lunch,Main Course,Soup,14.49,2,Mobile,Diana
+2024-01-27,Lunch,Main Course,Cake,9.54,3,Cash,Diana
+2024-01-27,Dinner,Appetizer,Ice Cream,48.55,3,Mobile,Bob
+2024-01-27,Breakfast,Main Course,Cake,10.84,3,Cash,Diana
+2024-01-27,Breakfast,Appetizer,Salad,14.47,2,Mobile,Bob
+2024-01-27,Lunch,Dessert,Cake,11.97,3,Card,Bob
+2024-01-27,Dinner,Dessert,Juice,30.35,2,Cash,Diana
+2024-01-27,Lunch,Main Course,Cake,18.66,3,Card,Charlie
+2024-01-27,Breakfast,Appetizer,Soup,49.29,2,Cash,Charlie
+2024-01-27,Lunch,Appetizer,Cake,21.37,2,Cash,Alice
+2024-01-27,Lunch,Dessert,Soda,39.97,3,Card,Charlie
+2024-01-27,Dinner,Dessert,Soup,42.8,1,Cash,Diana
+2024-01-27,Lunch,Dessert,Steak,27.02,1,Mobile,Diana
+2024-01-27,Lunch,Dessert,Soda,21.26,3,Card,Diana
+2024-01-27,Dinner,Dessert,Salad,23.73,2,Cash,Alice
+2024-01-27,Breakfast,Appetizer,Steak,27.96,1,Cash,Diana
+2024-01-27,Lunch,Main Course,Pasta,15.34,3,Cash,Alice
+2024-01-28,Dinner,Main Course,Cake,13.34,2,Mobile,Diana
+2024-01-28,Dinner,Appetizer,Pasta,42.16,2,Cash,Bob
+2024-01-28,Dinner,Beverage,Ice Cream,40.35,3,Card,Charlie
+2024-01-28,Dinner,Beverage,Pancakes,37.83,1,Mobile,Alice
+2024-01-28,Lunch,Beverage,Ice Cream,6.14,3,Card,Alice
+2024-01-28,Lunch,Beverage,Soup,31.5,1,Cash,Charlie
+2024-01-28,Lunch,Main Course,Pancakes,33.23,1,Cash,Bob
+2024-01-28,Breakfast,Appetizer,Pancakes,18.23,2,Mobile,Alice
+2024-01-28,Dinner,Main Course,Cake,14.34,2,Mobile,Charlie
+2024-01-28,Breakfast,Dessert,Steak,25.98,1,Cash,Diana
+2024-01-28,Dinner,Main Course,Pasta,24.35,1,Card,Charlie
+2024-01-28,Breakfast,Beverage,Omelette,22.9,2,Card,Alice
+2024-01-28,Dinner,Appetizer,Steak,7.05,1,Mobile,Diana
+2024-01-28,Dinner,Appetizer,Salad,27.94,3,Cash,Charlie
+2024-01-28,Lunch,Appetizer,Ice Cream,24.72,2,Mobile,Alice
+2024-01-28,Dinner,Dessert,Omelette,14.7,3,Cash,Alice
+2024-01-28,Lunch,Appetizer,Ice Cream,13.51,3,Card,Diana
+2024-01-28,Breakfast,Dessert,Cake,13.99,3,Mobile,Charlie
+2024-01-28,Dinner,Dessert,Pancakes,14.49,2,Cash,Alice
+2024-01-28,Breakfast,Beverage,Soup,46.73,2,Card,Bob
+2024-01-28,Breakfast,Appetizer,Burger,28.61,1,Cash,Charlie
+2024-01-28,Dinner,Dessert,Cake,6.35,3,Card,Charlie
+2024-01-28,Dinner,Dessert,Soda,31.88,2,Mobile,Diana
+2024-01-28,Lunch,Beverage,Omelette,32.88,1,Mobile,Diana
+2024-01-28,Lunch,Main Course,Pancakes,17.67,2,Cash,Diana
+2024-01-29,Breakfast,Beverage,Soup,24.6,3,Card,Diana
+2024-01-29,Dinner,Main Course,Cake,19.09,1,Card,Bob
+2024-01-29,Breakfast,Dessert,Soda,13.36,2,Card,Diana
+2024-01-29,Dinner,Appetizer,Cake,31.78,3,Card,Alice
+2024-01-29,Breakfast,Dessert,Omelette,13.52,2,Card,Bob
+2024-01-29,Breakfast,Main Course,Salad,38.92,2,Mobile,Charlie
+2024-01-29,Breakfast,Dessert,Coffee,47.37,1,Mobile,Charlie
+2024-01-29,Breakfast,Appetizer,Soda,23.5,2,Mobile,Charlie
+2024-01-29,Lunch,Beverage,Soda,45.91,3,Mobile,Diana
+2024-01-29,Breakfast,Main Course,Ice Cream,37.84,3,Card,Alice
+2024-01-29,Breakfast,Beverage,Pancakes,42.01,1,Card,Alice
+2024-01-29,Breakfast,Beverage,Pasta,35.7,2,Card,Bob
+2024-01-29,Dinner,Main Course,Ice Cream,12.4,1,Card,Alice
+2024-01-29,Lunch,Appetizer,Juice,20.48,3,Mobile,Diana
+2024-01-29,Dinner,Main Course,Steak,41.94,2,Mobile,Diana
+2024-01-29,Dinner,Beverage,Omelette,30.23,1,Mobile,Charlie
+2024-01-29,Breakfast,Beverage,Steak,9.44,1,Mobile,Alice
+2024-01-29,Dinner,Appetizer,Pasta,14.66,1,Mobile,Diana
+2024-01-29,Lunch,Appetizer,Cake,6.46,2,Mobile,Diana
+2024-01-29,Dinner,Main Course,Juice,38.67,1,Cash,Bob
+2024-01-29,Lunch,Main Course,Ice Cream,6.43,2,Cash,Diana
+2024-01-29,Dinner,Main Course,Soup,10.21,1,Cash,Charlie
+2024-01-29,Lunch,Beverage,Steak,32.63,1,Cash,Charlie
+2024-01-29,Lunch,Main Course,Coffee,42.06,1,Card,Bob
+2024-01-29,Dinner,Appetizer,Cake,12.12,1,Cash,Bob
+2024-01-29,Lunch,Appetizer,Pancakes,42.56,2,Cash,Bob
+2024-01-29,Dinner,Main Course,Cake,41.38,2,Cash,Charlie
+2024-01-29,Breakfast,Appetizer,Steak,14.19,2,Cash,Bob
+2024-01-29,Lunch,Appetizer,Soup,28.92,2,Mobile,Alice
+2024-01-29,Lunch,Beverage,Pasta,12.25,2,Card,Diana
+2024-01-29,Breakfast,Appetizer,Soup,23.8,3,Mobile,Charlie
+2024-01-29,Dinner,Dessert,Soda,36.2,3,Mobile,Diana
+2024-01-29,Dinner,Beverage,Coffee,42.51,1,Cash,Alice
+2024-01-29,Dinner,Dessert,Omelette,9.76,1,Card,Bob
+2024-01-29,Lunch,Appetizer,Salad,30.03,2,Cash,Bob
+2024-01-29,Breakfast,Main Course,Burger,15.41,3,Mobile,Charlie
+2024-01-30,Dinner,Appetizer,Omelette,44.88,3,Mobile,Bob
+2024-01-30,Breakfast,Appetizer,Burger,9.11,2,Card,Bob
+2024-01-30,Breakfast,Appetizer,Soup,37.92,3,Card,Alice
+2024-01-30,Dinner,Appetizer,Pasta,47.44,1,Card,Diana
+2024-01-30,Breakfast,Dessert,Pasta,16.3,2,Mobile,Diana
+2024-01-30,Lunch,Beverage,Ice Cream,18.88,2,Mobile,Charlie
+2024-01-30,Dinner,Main Course,Juice,37.08,3,Cash,Alice
+2024-01-30,Dinner,Appetizer,Pasta,41.92,3,Card,Alice
+2024-01-30,Lunch,Beverage,Soup,16.97,3,Card,Charlie
+2024-01-30,Breakfast,Beverage,Soda,34.68,1,Card,Alice
+2024-01-30,Dinner,Appetizer,Ice Cream,13.15,3,Cash,Charlie
+2024-01-30,Breakfast,Dessert,Salad,29.59,2,Cash,Diana
+2024-01-30,Lunch,Appetizer,Cake,23.82,1,Card,Bob
+2024-01-30,Lunch,Appetizer,Coffee,20.32,3,Cash,Alice
+2024-01-30,Lunch,Dessert,Salad,20.1,2,Mobile,Charlie
+2024-01-30,Dinner,Appetizer,Steak,47.67,3,Mobile,Alice
+2024-01-30,Lunch,Beverage,Omelette,46.69,2,Card,Bob
+2024-01-30,Dinner,Dessert,Pancakes,5.44,3,Cash,Charlie
+2024-01-30,Lunch,Beverage,Pasta,40.17,3,Mobile,Charlie
+2024-01-30,Lunch,Beverage,Soda,22.9,3,Card,Bob
+2024-01-30,Lunch,Dessert,Juice,36.92,3,Mobile,Charlie
+2024-01-30,Dinner,Dessert,Cake,9.19,1,Card,Charlie
+2024-01-30,Breakfast,Dessert,Pancakes,15.17,1,Cash,Bob
+2024-01-30,Lunch,Appetizer,Soda,17.93,3,Card,Bob
+2024-01-30,Dinner,Appetizer,Salad,27.16,1,Cash,Charlie
+2024-01-30,Dinner,Beverage,Salad,12.26,2,Cash,Diana
+2024-01-30,Breakfast,Dessert,Soup,11.93,1,Card,Charlie
+2024-01-30,Lunch,Main Course,Omelette,7.55,2,Cash,Charlie
