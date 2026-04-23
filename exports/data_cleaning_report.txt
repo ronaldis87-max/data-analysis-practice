@@ -1,0 +1,24 @@
+============================================================
+DATA CLEANING REPORT
+============================================================
+
+Original Data:
+  Rows: 10
+  Missing cells: 6
+  Quality score: 90.0%
+
+Cleaned Data:
+  Rows: 7
+  Missing cells: 0
+  Quality score: 100.0%
+
+Actions Taken:
+  1. Replaced 'MISSING' and 'UNKNOWN' with NaN
+  2. Filled missing customer_type with most common: Regular
+  3. Filled missing products with 'Unknown Product'
+  4. Converted price to numeric, filled with median: $42.99
+  5. Filled missing quantity with median: 2.5
+  6. Dropped 3 rows with invalid dates
+
+Result:
+  ✅ Data is now 100% clean and ready for analysis!
