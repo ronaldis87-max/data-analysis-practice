@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Sensitive Lightspeed business data
+02_lightspeed/data/raw/*.csv
+02_lightspeed/data/raw/*.xlsx
+02_lightspeed/data/raw/*.xls
+
+# But keep the folder structure
+!02_lightspeed/data/raw/.gitkeep
+
+# Large files
+*.xlsx
+*.xls
+
+# Mac files
+.DS_Store
+
+# Temporary files
+*~
+*.swp

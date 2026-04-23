@@ -1,5 +1,56 @@
 # Data Analysis Practice
 
+Python data analysis journey - from beginner to business analyst.
+
+**Portfolio:** [github.com/ronaldis87-max/data-analysis-practice](https://github.com/ronaldis87-max/data-analysis-practice)
+
+---
+
+## 📚 Project Structure
+
+### 01_practice/ - Learning Exercises
+Foundation training with sample datasets (restaurant & retail).
+
+**Completed:**
+- Days 1-3: Restaurant sales analysis
+- Day 4: Retail analytics & business strategy
+- Day 5: Data visualization & dashboards
+- Day 6: Data cleaning techniques
+
+**Skills:** pandas, matplotlib, groupby, pivot tables, data cleaning, strategic analysis
+
+---
+
+### 02_lightspeed/ - Real Business Analysis (IN PROGRESS)
+Production analysis of family auto parts business using Lightspeed POS data.
+
+**Structure:**
+- `data/raw/` - Original Lightspeed exports (private, not committed)
+- `data/cleaned/` - Cleaned datasets ready for analysis
+- `analysis/` - Python analysis scripts
+- `exports/` - Business reports and summaries
+- `reports/` - Strategic recommendations
+
+**Objectives:**
+1. Identify top-performing products
+2. Optimize inventory (fast vs slow movers)
+3. Analyze customer segments
+4. Detect seasonal trends
+5. Generate actionable business insights
+
+---
+
+### docs/ - Reference Documentation
+- Learning reference guide
+- Business analysis frameworks
+- Common errors & solutions
+
+---
+
+## 🎯 Previous Work
+
+# Data Analysis Practice
+
 Python data analysis learning journey - from beginner to business analyst.
 
 ## 📊 Day 4: Retail Store Analysis
